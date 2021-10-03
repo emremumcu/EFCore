@@ -1,0 +1,326 @@
+[
+  {
+    "IlKod": "01",
+    "Il": "ADANA"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE"
+  },
+  {
+    "IlKod": "30",
+    "Il": "HAKKARİ"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY"
+  },
+  {
+    "IlKod": "69",
+    "Il": "BAYBURT"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK"
+  },
+  {
+    "IlKod": "74",
+    "Il": "BARTIN"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN"
+  },
+  {
+    "IlKod": "76",
+    "Il": "IĞDIR"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK"
+  },
+  {
+    "IlKod": "79",
+    "Il": "KİLİS"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE"
+  }
+]

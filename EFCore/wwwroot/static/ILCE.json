@@ -1,0 +1,5840 @@
+[
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01001",
+    "Ilce": "ALADAĞ"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01002",
+    "Ilce": "CEYHAN"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01003",
+    "Ilce": "ÇUKUROVA"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01004",
+    "Ilce": "FEKE"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01005",
+    "Ilce": "İMAMOĞLU"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01006",
+    "Ilce": "KARAİSALI"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01007",
+    "Ilce": "KARATAŞ"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01008",
+    "Ilce": "KOZAN"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01009",
+    "Ilce": "POZANTI"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01010",
+    "Ilce": "SAİMBEYLİ"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01011",
+    "Ilce": "SARIÇAM"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01012",
+    "Ilce": "SEYHAN"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01013",
+    "Ilce": "TUFANBEYLİ"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01014",
+    "Ilce": "YUMURTALIK"
+  },
+  {
+    "IlKod": "01",
+    "Il": "ADANA",
+    "IlceKod": "01015",
+    "Ilce": "YÜREĞİR"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02001",
+    "Ilce": "BESNİ"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02002",
+    "Ilce": "ÇELİKHAN"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02003",
+    "Ilce": "GERGER"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02004",
+    "Ilce": "GÖLBAŞI"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02005",
+    "Ilce": "KAHTA"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02006",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02007",
+    "Ilce": "SAMSAT"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02008",
+    "Ilce": "SİNCİK"
+  },
+  {
+    "IlKod": "02",
+    "Il": "ADIYAMAN",
+    "IlceKod": "02009",
+    "Ilce": "TUT"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03001",
+    "Ilce": "BAŞMAKÇI"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03002",
+    "Ilce": "BAYAT"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03003",
+    "Ilce": "BOLVADİN"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03004",
+    "Ilce": "ÇAY"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03005",
+    "Ilce": "ÇOBANLAR"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03006",
+    "Ilce": "DAZKIRI"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03007",
+    "Ilce": "DİNAR"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03008",
+    "Ilce": "EMİRDAĞ"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03009",
+    "Ilce": "EVCİLER"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03010",
+    "Ilce": "HOCALAR"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03011",
+    "Ilce": "İHSANİYE"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03012",
+    "Ilce": "İSCEHİSAR"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03013",
+    "Ilce": "KIZILÖREN"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03014",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03015",
+    "Ilce": "SANDIKLI"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03016",
+    "Ilce": "SİNANPAŞA"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03017",
+    "Ilce": "SULTANDAĞI"
+  },
+  {
+    "IlKod": "03",
+    "Il": "AFYONKARAHİSAR",
+    "IlceKod": "03018",
+    "Ilce": "ŞUHUT"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04001",
+    "Ilce": "DİYADİN"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04002",
+    "Ilce": "DOĞUBAYAZIT"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04003",
+    "Ilce": "ELEŞKİRT"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04004",
+    "Ilce": "HAMUR"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04006",
+    "Ilce": "PATNOS"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04007",
+    "Ilce": "TAŞLIÇAY"
+  },
+  {
+    "IlKod": "04",
+    "Il": "AĞRI",
+    "IlceKod": "04008",
+    "Ilce": "TUTAK"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05001",
+    "Ilce": "GÖYNÜCEK"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05002",
+    "Ilce": "GÜMÜŞHACIKÖY"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05003",
+    "Ilce": "HAMAMÖZÜ"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05004",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05005",
+    "Ilce": "MERZİFON"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05006",
+    "Ilce": "SULUOVA"
+  },
+  {
+    "IlKod": "05",
+    "Il": "AMASYA",
+    "IlceKod": "05007",
+    "Ilce": "TAŞOVA"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06001",
+    "Ilce": "AKYURT"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06002",
+    "Ilce": "ALTINDAĞ"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06003",
+    "Ilce": "AYAŞ"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06004",
+    "Ilce": "BALA"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06005",
+    "Ilce": "BEYPAZARI"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06006",
+    "Ilce": "ÇAMLIDERE"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06007",
+    "Ilce": "ÇANKAYA"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06008",
+    "Ilce": "ÇUBUK"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06009",
+    "Ilce": "ELMADAĞ"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06010",
+    "Ilce": "ETİMESGUT"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06011",
+    "Ilce": "EVREN"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06012",
+    "Ilce": "GÖLBAŞI"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06013",
+    "Ilce": "GÜDÜL"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06014",
+    "Ilce": "HAYMANA"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06015",
+    "Ilce": "KAHRAMANKAZAN"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06016",
+    "Ilce": "KALECİK"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06017",
+    "Ilce": "KEÇİÖREN"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06018",
+    "Ilce": "KIZILCAHAMAM"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06019",
+    "Ilce": "MAMAK"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06020",
+    "Ilce": "NALLIHAN"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06021",
+    "Ilce": "POLATLI"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06022",
+    "Ilce": "PURSAKLAR"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06023",
+    "Ilce": "SİNCAN"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06024",
+    "Ilce": "ŞEREFLİKOÇHİSAR"
+  },
+  {
+    "IlKod": "06",
+    "Il": "ANKARA",
+    "IlceKod": "06025",
+    "Ilce": "YENİMAHALLE"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07001",
+    "Ilce": "AKSEKİ"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07002",
+    "Ilce": "AKSU"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07003",
+    "Ilce": "ALANYA"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07004",
+    "Ilce": "DEMRE"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07005",
+    "Ilce": "DÖŞEMEALTI"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07006",
+    "Ilce": "ELMALI"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07007",
+    "Ilce": "FİNİKE"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07008",
+    "Ilce": "GAZİPAŞA"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07009",
+    "Ilce": "GÜNDOĞMUŞ"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07010",
+    "Ilce": "İBRADI"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07011",
+    "Ilce": "KAŞ"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07012",
+    "Ilce": "KEMER"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07013",
+    "Ilce": "KEPEZ"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07014",
+    "Ilce": "KONYAALTI"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07015",
+    "Ilce": "KORKUTELİ"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07016",
+    "Ilce": "KUMLUCA"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07017",
+    "Ilce": "MANAVGAT"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07018",
+    "Ilce": "MURATPAŞA"
+  },
+  {
+    "IlKod": "07",
+    "Il": "ANTALYA",
+    "IlceKod": "07019",
+    "Ilce": "SERİK"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08001",
+    "Ilce": "ARDANUÇ"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08002",
+    "Ilce": "ARHAVİ"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08003",
+    "Ilce": "BORÇKA"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08004",
+    "Ilce": "HOPA"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08005",
+    "Ilce": "KEMALPAŞA"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08006",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08007",
+    "Ilce": "MURGUL"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08008",
+    "Ilce": "ŞAVŞAT"
+  },
+  {
+    "IlKod": "08",
+    "Il": "ARTVİN",
+    "IlceKod": "08009",
+    "Ilce": "YUSUFELİ"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09001",
+    "Ilce": "BOZDOĞAN"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09002",
+    "Ilce": "BUHARKENT"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09003",
+    "Ilce": "ÇİNE"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09004",
+    "Ilce": "DİDİM"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09005",
+    "Ilce": "EFELER"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09006",
+    "Ilce": "GERMENCİK"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09007",
+    "Ilce": "İNCİRLİOVA"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09008",
+    "Ilce": "KARACASU"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09009",
+    "Ilce": "KARPUZLU"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09010",
+    "Ilce": "KOÇARLI"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09011",
+    "Ilce": "KÖŞK"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09012",
+    "Ilce": "KUŞADASI"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09013",
+    "Ilce": "KUYUCAK"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09014",
+    "Ilce": "NAZİLLİ"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09015",
+    "Ilce": "SÖKE"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09016",
+    "Ilce": "SULTANHİSAR"
+  },
+  {
+    "IlKod": "09",
+    "Il": "AYDIN",
+    "IlceKod": "09017",
+    "Ilce": "YENİPAZAR"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10001",
+    "Ilce": "ALTIEYLÜL"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10002",
+    "Ilce": "AYVALIK"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10003",
+    "Ilce": "BALYA"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10004",
+    "Ilce": "BANDIRMA"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10005",
+    "Ilce": "BİGADİÇ"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10006",
+    "Ilce": "BURHANİYE"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10007",
+    "Ilce": "DURSUNBEY"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10008",
+    "Ilce": "EDREMİT"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10009",
+    "Ilce": "ERDEK"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10010",
+    "Ilce": "GÖMEÇ"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10011",
+    "Ilce": "GÖNEN"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10012",
+    "Ilce": "HAVRAN"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10013",
+    "Ilce": "İVRİNDİ"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10014",
+    "Ilce": "KARESİ"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10015",
+    "Ilce": "KEPSUT"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10016",
+    "Ilce": "MANYAS"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10017",
+    "Ilce": "MARMARA"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10018",
+    "Ilce": "SAVAŞTEPE"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10019",
+    "Ilce": "SINDIRGI"
+  },
+  {
+    "IlKod": "10",
+    "Il": "BALIKESİR",
+    "IlceKod": "10020",
+    "Ilce": "SUSURLUK"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11001",
+    "Ilce": "BOZÜYÜK"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11002",
+    "Ilce": "GÖLPAZARI"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11003",
+    "Ilce": "İNHİSAR"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11004",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11005",
+    "Ilce": "OSMANELİ"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11006",
+    "Ilce": "PAZARYERİ"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11007",
+    "Ilce": "SÖĞÜT"
+  },
+  {
+    "IlKod": "11",
+    "Il": "BİLECİK",
+    "IlceKod": "11008",
+    "Ilce": "YENİPAZAR"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12001",
+    "Ilce": "ADAKLI"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12002",
+    "Ilce": "GENÇ"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12003",
+    "Ilce": "KARLIOVA"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12004",
+    "Ilce": "KİĞI"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12006",
+    "Ilce": "SOLHAN"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12007",
+    "Ilce": "YAYLADERE"
+  },
+  {
+    "IlKod": "12",
+    "Il": "BİNGÖL",
+    "IlceKod": "12008",
+    "Ilce": "YEDİSU"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13001",
+    "Ilce": "ADİLCEVAZ"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13002",
+    "Ilce": "AHLAT"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13003",
+    "Ilce": "GÜROYMAK"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13004",
+    "Ilce": "HİZAN"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13006",
+    "Ilce": "MUTKİ"
+  },
+  {
+    "IlKod": "13",
+    "Il": "BİTLİS",
+    "IlceKod": "13007",
+    "Ilce": "TATVAN"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14001",
+    "Ilce": "DÖRTDİVAN"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14002",
+    "Ilce": "GEREDE"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14003",
+    "Ilce": "GÖYNÜK"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14004",
+    "Ilce": "KIBRISCIK"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14005",
+    "Ilce": "MENGEN"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14006",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14007",
+    "Ilce": "MUDURNU"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14008",
+    "Ilce": "SEBEN"
+  },
+  {
+    "IlKod": "14",
+    "Il": "BOLU",
+    "IlceKod": "14009",
+    "Ilce": "YENİÇAĞA"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15001",
+    "Ilce": "AĞLASUN"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15002",
+    "Ilce": "ALTINYAYLA"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15003",
+    "Ilce": "BUCAK"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15004",
+    "Ilce": "ÇAVDIR"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15005",
+    "Ilce": "ÇELTİKÇİ"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15006",
+    "Ilce": "GÖLHİSAR"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15007",
+    "Ilce": "KARAMANLI"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15008",
+    "Ilce": "KEMER"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15009",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15010",
+    "Ilce": "TEFENNİ"
+  },
+  {
+    "IlKod": "15",
+    "Il": "BURDUR",
+    "IlceKod": "15011",
+    "Ilce": "YEŞİLOVA"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16001",
+    "Ilce": "BÜYÜKORHAN"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16002",
+    "Ilce": "GEMLİK"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16003",
+    "Ilce": "GÜRSU"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16004",
+    "Ilce": "HARMANCIK"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16005",
+    "Ilce": "İNEGÖL"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16006",
+    "Ilce": "İZNİK"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16007",
+    "Ilce": "KARACABEY"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16008",
+    "Ilce": "KELES"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16009",
+    "Ilce": "KESTEL"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16010",
+    "Ilce": "MUDANYA"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16011",
+    "Ilce": "MUSTAFAKEMALPAŞA"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16012",
+    "Ilce": "NİLÜFER"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16013",
+    "Ilce": "ORHANELİ"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16014",
+    "Ilce": "ORHANGAZİ"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16015",
+    "Ilce": "OSMANGAZİ"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16016",
+    "Ilce": "YENİŞEHİR"
+  },
+  {
+    "IlKod": "16",
+    "Il": "BURSA",
+    "IlceKod": "16017",
+    "Ilce": "YILDIRIM"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17001",
+    "Ilce": "AYVACIK"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17002",
+    "Ilce": "BAYRAMİÇ"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17003",
+    "Ilce": "BİGA"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17004",
+    "Ilce": "BOZCAADA"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17005",
+    "Ilce": "ÇAN"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17006",
+    "Ilce": "ECEABAT"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17007",
+    "Ilce": "EZİNE"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17008",
+    "Ilce": "GELİBOLU"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17009",
+    "Ilce": "GÖKÇEADA"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17010",
+    "Ilce": "LAPSEKİ"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17011",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "17",
+    "Il": "ÇANAKKALE",
+    "IlceKod": "17012",
+    "Ilce": "YENİCE"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18001",
+    "Ilce": "ATKARACALAR"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18002",
+    "Ilce": "BAYRAMÖREN"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18003",
+    "Ilce": "ÇERKEŞ"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18004",
+    "Ilce": "ELDİVAN"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18005",
+    "Ilce": "ILGAZ"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18006",
+    "Ilce": "KIZILIRMAK"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18007",
+    "Ilce": "KORGUN"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18008",
+    "Ilce": "KURŞUNLU"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18009",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18010",
+    "Ilce": "ORTA"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18011",
+    "Ilce": "ŞABANÖZÜ"
+  },
+  {
+    "IlKod": "18",
+    "Il": "ÇANKIRI",
+    "IlceKod": "18012",
+    "Ilce": "YAPRAKLI"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19001",
+    "Ilce": "ALACA"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19002",
+    "Ilce": "BAYAT"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19003",
+    "Ilce": "BOĞAZKALE"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19004",
+    "Ilce": "DODURGA"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19005",
+    "Ilce": "İSKİLİP"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19006",
+    "Ilce": "KARGI"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19007",
+    "Ilce": "LAÇİN"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19008",
+    "Ilce": "MECİTÖZÜ"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19009",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19010",
+    "Ilce": "OĞUZLAR"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19011",
+    "Ilce": "ORTAKÖY"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19012",
+    "Ilce": "OSMANCIK"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19013",
+    "Ilce": "SUNGURLU"
+  },
+  {
+    "IlKod": "19",
+    "Il": "ÇORUM",
+    "IlceKod": "19014",
+    "Ilce": "UĞURLUDAĞ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20001",
+    "Ilce": "ACIPAYAM"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20002",
+    "Ilce": "BABADAĞ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20003",
+    "Ilce": "BAKLAN"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20004",
+    "Ilce": "BEKİLLİ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20005",
+    "Ilce": "BEYAĞAÇ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20006",
+    "Ilce": "BOZKURT"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20007",
+    "Ilce": "BULDAN"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20008",
+    "Ilce": "ÇAL"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20009",
+    "Ilce": "ÇAMELİ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20010",
+    "Ilce": "ÇARDAK"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20011",
+    "Ilce": "ÇİVRİL"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20012",
+    "Ilce": "GÜNEY"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20013",
+    "Ilce": "HONAZ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20014",
+    "Ilce": "KALE"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20015",
+    "Ilce": "MERKEZEFENDİ"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20016",
+    "Ilce": "PAMUKKALE"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20017",
+    "Ilce": "SARAYKÖY"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20018",
+    "Ilce": "SERİNHİSAR"
+  },
+  {
+    "IlKod": "20",
+    "Il": "DENİZLİ",
+    "IlceKod": "20019",
+    "Ilce": "TAVAS"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21001",
+    "Ilce": "BAĞLAR"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21002",
+    "Ilce": "BİSMİL"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21003",
+    "Ilce": "ÇERMİK"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21004",
+    "Ilce": "ÇINAR"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21005",
+    "Ilce": "ÇÜNGÜŞ"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21006",
+    "Ilce": "DİCLE"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21007",
+    "Ilce": "EĞİL"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21008",
+    "Ilce": "ERGANİ"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21009",
+    "Ilce": "HANİ"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21010",
+    "Ilce": "HAZRO"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21011",
+    "Ilce": "KAYAPINAR"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21012",
+    "Ilce": "KOCAKÖY"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21013",
+    "Ilce": "KULP"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21014",
+    "Ilce": "LİCE"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21015",
+    "Ilce": "SİLVAN"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21016",
+    "Ilce": "SUR"
+  },
+  {
+    "IlKod": "21",
+    "Il": "DİYARBAKIR",
+    "IlceKod": "21017",
+    "Ilce": "YENİŞEHİR"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22001",
+    "Ilce": "ENEZ"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22002",
+    "Ilce": "HAVSA"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22003",
+    "Ilce": "İPSALA"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22004",
+    "Ilce": "KEŞAN"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22005",
+    "Ilce": "LALAPAŞA"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22006",
+    "Ilce": "MERİÇ"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22007",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22008",
+    "Ilce": "SÜLOĞLU"
+  },
+  {
+    "IlKod": "22",
+    "Il": "EDİRNE",
+    "IlceKod": "22009",
+    "Ilce": "UZUNKÖPRÜ"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23001",
+    "Ilce": "AĞIN"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23002",
+    "Ilce": "ALACAKAYA"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23003",
+    "Ilce": "ARICAK"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23004",
+    "Ilce": "BASKİL"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23005",
+    "Ilce": "KARAKOÇAN"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23006",
+    "Ilce": "KEBAN"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23007",
+    "Ilce": "KOVANCILAR"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23008",
+    "Ilce": "MADEN"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23009",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23010",
+    "Ilce": "PALU"
+  },
+  {
+    "IlKod": "23",
+    "Il": "ELAZIĞ",
+    "IlceKod": "23011",
+    "Ilce": "SİVRİCE"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24001",
+    "Ilce": "ÇAYIRLI"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24002",
+    "Ilce": "İLİÇ"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24003",
+    "Ilce": "KEMAH"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24004",
+    "Ilce": "KEMALİYE"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24006",
+    "Ilce": "OTLUKBELİ"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24007",
+    "Ilce": "REFAHİYE"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24008",
+    "Ilce": "TERCAN"
+  },
+  {
+    "IlKod": "24",
+    "Il": "ERZİNCAN",
+    "IlceKod": "24009",
+    "Ilce": "ÜZÜMLÜ"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25001",
+    "Ilce": "AŞKALE"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25002",
+    "Ilce": "AZİZİYE"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25003",
+    "Ilce": "ÇAT"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25004",
+    "Ilce": "HINIS"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25005",
+    "Ilce": "HORASAN"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25006",
+    "Ilce": "İSPİR"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25007",
+    "Ilce": "KARAÇOBAN"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25008",
+    "Ilce": "KARAYAZI"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25009",
+    "Ilce": "KÖPRÜKÖY"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25010",
+    "Ilce": "NARMAN"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25011",
+    "Ilce": "OLTU"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25012",
+    "Ilce": "OLUR"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25013",
+    "Ilce": "PALANDÖKEN"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25014",
+    "Ilce": "PASİNLER"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25015",
+    "Ilce": "PAZARYOLU"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25016",
+    "Ilce": "ŞENKAYA"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25017",
+    "Ilce": "TEKMAN"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25018",
+    "Ilce": "TORTUM"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25019",
+    "Ilce": "UZUNDERE"
+  },
+  {
+    "IlKod": "25",
+    "Il": "ERZURUM",
+    "IlceKod": "25020",
+    "Ilce": "YAKUTİYE"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26001",
+    "Ilce": "ALPU"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26002",
+    "Ilce": "BEYLİKOVA"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26003",
+    "Ilce": "ÇİFTELER"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26004",
+    "Ilce": "GÜNYÜZÜ"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26005",
+    "Ilce": "HAN"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26006",
+    "Ilce": "İNÖNÜ"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26007",
+    "Ilce": "MAHMUDİYE"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26008",
+    "Ilce": "MİHALGAZİ"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26009",
+    "Ilce": "MİHALIÇÇIK"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26010",
+    "Ilce": "ODUNPAZARI"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26011",
+    "Ilce": "SARICAKAYA"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26012",
+    "Ilce": "SEYİTGAZİ"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26013",
+    "Ilce": "SİVRİHİSAR"
+  },
+  {
+    "IlKod": "26",
+    "Il": "ESKİŞEHİR",
+    "IlceKod": "26014",
+    "Ilce": "TEPEBAŞI"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27001",
+    "Ilce": "ARABAN"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27002",
+    "Ilce": "İSLAHİYE"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27003",
+    "Ilce": "KARKAMIŞ"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27004",
+    "Ilce": "NİZİP"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27005",
+    "Ilce": "NURDAĞI"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27006",
+    "Ilce": "OĞUZELİ"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27007",
+    "Ilce": "ŞAHİNBEY"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27008",
+    "Ilce": "ŞEHİTKAMİL"
+  },
+  {
+    "IlKod": "27",
+    "Il": "GAZİANTEP",
+    "IlceKod": "27009",
+    "Ilce": "YAVUZELİ"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28001",
+    "Ilce": "ALUCRA"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28002",
+    "Ilce": "BULANCAK"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28003",
+    "Ilce": "ÇAMOLUK"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28004",
+    "Ilce": "ÇANAKÇI"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28005",
+    "Ilce": "DERELİ"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28006",
+    "Ilce": "DOĞANKENT"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28007",
+    "Ilce": "ESPİYE"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28008",
+    "Ilce": "EYNESİL"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28009",
+    "Ilce": "GÖRELE"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28010",
+    "Ilce": "GÜCE"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28011",
+    "Ilce": "KEŞAP"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28012",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28013",
+    "Ilce": "PİRAZİZ"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28014",
+    "Ilce": "ŞEBİNKARAHİSAR"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28015",
+    "Ilce": "TİREBOLU"
+  },
+  {
+    "IlKod": "28",
+    "Il": "GİRESUN",
+    "IlceKod": "28016",
+    "Ilce": "YAĞLIDERE"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE",
+    "IlceKod": "29001",
+    "Ilce": "KELKİT"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE",
+    "IlceKod": "29002",
+    "Ilce": "KÖSE"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE",
+    "IlceKod": "29003",
+    "Ilce": "KÜRTÜN"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE",
+    "IlceKod": "29004",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE",
+    "IlceKod": "29005",
+    "Ilce": "ŞİRAN"
+  },
+  {
+    "IlKod": "29",
+    "Il": "GÜMÜŞHANE",
+    "IlceKod": "29006",
+    "Ilce": "TORUL"
+  },
+  {
+    "IlKod": "30",
+    "Il": "HAKKARİ",
+    "IlceKod": "30001",
+    "Ilce": "ÇUKURCA"
+  },
+  {
+    "IlKod": "30",
+    "Il": "HAKKARİ",
+    "IlceKod": "30002",
+    "Ilce": "DERECİK"
+  },
+  {
+    "IlKod": "30",
+    "Il": "HAKKARİ",
+    "IlceKod": "30003",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "30",
+    "Il": "HAKKARİ",
+    "IlceKod": "30004",
+    "Ilce": "ŞEMDİNLİ"
+  },
+  {
+    "IlKod": "30",
+    "Il": "HAKKARİ",
+    "IlceKod": "30005",
+    "Ilce": "YÜKSEKOVA"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31001",
+    "Ilce": "ALTINÖZÜ"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31002",
+    "Ilce": "ANTAKYA"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31003",
+    "Ilce": "ARSUZ"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31004",
+    "Ilce": "BELEN"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31005",
+    "Ilce": "DEFNE"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31006",
+    "Ilce": "DÖRTYOL"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31007",
+    "Ilce": "ERZİN"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31008",
+    "Ilce": "HASSA"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31009",
+    "Ilce": "İSKENDERUN"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31010",
+    "Ilce": "KIRIKHAN"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31011",
+    "Ilce": "KUMLU"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31012",
+    "Ilce": "PAYAS"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31013",
+    "Ilce": "REYHANLI"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31014",
+    "Ilce": "SAMANDAĞ"
+  },
+  {
+    "IlKod": "31",
+    "Il": "HATAY",
+    "IlceKod": "31015",
+    "Ilce": "YAYLADAĞI"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32001",
+    "Ilce": "AKSU"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32002",
+    "Ilce": "ATABEY"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32003",
+    "Ilce": "EĞİRDİR"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32004",
+    "Ilce": "GELENDOST"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32005",
+    "Ilce": "GÖNEN"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32006",
+    "Ilce": "KEÇİBORLU"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32007",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32008",
+    "Ilce": "SENİRKENT"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32009",
+    "Ilce": "SÜTÇÜLER"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32010",
+    "Ilce": "ŞARKİKARAAĞAÇ"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32011",
+    "Ilce": "ULUBORLU"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32012",
+    "Ilce": "YALVAÇ"
+  },
+  {
+    "IlKod": "32",
+    "Il": "ISPARTA",
+    "IlceKod": "32013",
+    "Ilce": "YENİŞARBADEMLİ"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33001",
+    "Ilce": "AKDENİZ"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33002",
+    "Ilce": "ANAMUR"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33003",
+    "Ilce": "AYDINCIK"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33004",
+    "Ilce": "BOZYAZI"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33005",
+    "Ilce": "ÇAMLIYAYLA"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33006",
+    "Ilce": "ERDEMLİ"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33007",
+    "Ilce": "GÜLNAR"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33008",
+    "Ilce": "MEZİTLİ"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33009",
+    "Ilce": "MUT"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33010",
+    "Ilce": "SİLİFKE"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33011",
+    "Ilce": "TARSUS"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33012",
+    "Ilce": "TOROSLAR"
+  },
+  {
+    "IlKod": "33",
+    "Il": "MERSİN",
+    "IlceKod": "33013",
+    "Ilce": "YENİŞEHİR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34001",
+    "Ilce": "ADALAR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34002",
+    "Ilce": "ARNAVUTKÖY"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34003",
+    "Ilce": "ATAŞEHİR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34004",
+    "Ilce": "AVCILAR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34005",
+    "Ilce": "BAĞCILAR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34006",
+    "Ilce": "BAHÇELİEVLER"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34007",
+    "Ilce": "BAKIRKÖY"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34008",
+    "Ilce": "BAŞAKŞEHİR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34009",
+    "Ilce": "BAYRAMPAŞA"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34010",
+    "Ilce": "BEŞİKTAŞ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34011",
+    "Ilce": "BEYKOZ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34012",
+    "Ilce": "BEYLİKDÜZÜ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34013",
+    "Ilce": "BEYOĞLU"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34014",
+    "Ilce": "BÜYÜKÇEKMECE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34015",
+    "Ilce": "ÇATALCA"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34016",
+    "Ilce": "ÇEKMEKÖY"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34017",
+    "Ilce": "ESENLER"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34018",
+    "Ilce": "ESENYURT"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34019",
+    "Ilce": "EYÜPSULTAN"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34020",
+    "Ilce": "FATİH"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34021",
+    "Ilce": "GAZİOSMANPAŞA"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34022",
+    "Ilce": "GÜNGÖREN"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34023",
+    "Ilce": "KADIKÖY"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34024",
+    "Ilce": "KAĞITHANE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34025",
+    "Ilce": "KARTAL"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34026",
+    "Ilce": "KÜÇÜKÇEKMECE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34027",
+    "Ilce": "MALTEPE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34028",
+    "Ilce": "PENDİK"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34029",
+    "Ilce": "SANCAKTEPE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34030",
+    "Ilce": "SARIYER"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34031",
+    "Ilce": "SİLİVRİ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34032",
+    "Ilce": "SULTANBEYLİ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34033",
+    "Ilce": "SULTANGAZİ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34034",
+    "Ilce": "ŞİLE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34035",
+    "Ilce": "ŞİŞLİ"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34036",
+    "Ilce": "TUZLA"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34037",
+    "Ilce": "ÜMRANİYE"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34038",
+    "Ilce": "ÜSKÜDAR"
+  },
+  {
+    "IlKod": "34",
+    "Il": "İSTANBUL",
+    "IlceKod": "34039",
+    "Ilce": "ZEYTİNBURNU"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35001",
+    "Ilce": "ALİAĞA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35002",
+    "Ilce": "BALÇOVA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35003",
+    "Ilce": "BAYINDIR"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35004",
+    "Ilce": "BAYRAKLI"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35005",
+    "Ilce": "BERGAMA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35006",
+    "Ilce": "BEYDAĞ"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35007",
+    "Ilce": "BORNOVA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35008",
+    "Ilce": "BUCA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35009",
+    "Ilce": "ÇEŞME"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35010",
+    "Ilce": "ÇİĞLİ"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35011",
+    "Ilce": "DİKİLİ"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35012",
+    "Ilce": "FOÇA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35013",
+    "Ilce": "GAZİEMİR"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35014",
+    "Ilce": "GÜZELBAHÇE"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35015",
+    "Ilce": "KARABAĞLAR"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35016",
+    "Ilce": "KARABURUN"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35017",
+    "Ilce": "KARŞIYAKA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35018",
+    "Ilce": "KEMALPAŞA"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35019",
+    "Ilce": "KINIK"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35020",
+    "Ilce": "KİRAZ"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35021",
+    "Ilce": "KONAK"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35022",
+    "Ilce": "MENDERES"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35023",
+    "Ilce": "MENEMEN"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35024",
+    "Ilce": "NARLIDERE"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35025",
+    "Ilce": "ÖDEMİŞ"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35026",
+    "Ilce": "SEFERİHİSAR"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35027",
+    "Ilce": "SELÇUK"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35028",
+    "Ilce": "TİRE"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35029",
+    "Ilce": "TORBALI"
+  },
+  {
+    "IlKod": "35",
+    "Il": "İZMİR",
+    "IlceKod": "35030",
+    "Ilce": "URLA"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36001",
+    "Ilce": "AKYAKA"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36002",
+    "Ilce": "ARPAÇAY"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36003",
+    "Ilce": "DİGOR"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36004",
+    "Ilce": "KAĞIZMAN"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36006",
+    "Ilce": "SARIKAMIŞ"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36007",
+    "Ilce": "SELİM"
+  },
+  {
+    "IlKod": "36",
+    "Il": "KARS",
+    "IlceKod": "36008",
+    "Ilce": "SUSUZ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37001",
+    "Ilce": "ABANA"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37002",
+    "Ilce": "AĞLI"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37003",
+    "Ilce": "ARAÇ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37004",
+    "Ilce": "AZDAVAY"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37005",
+    "Ilce": "BOZKURT"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37006",
+    "Ilce": "CİDE"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37007",
+    "Ilce": "ÇATALZEYTİN"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37008",
+    "Ilce": "DADAY"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37009",
+    "Ilce": "DEVREKANİ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37010",
+    "Ilce": "DOĞANYURT"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37011",
+    "Ilce": "HANÖNÜ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37012",
+    "Ilce": "İHSANGAZİ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37013",
+    "Ilce": "İNEBOLU"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37014",
+    "Ilce": "KÜRE"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37015",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37016",
+    "Ilce": "PINARBAŞI"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37017",
+    "Ilce": "SEYDİLER"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37018",
+    "Ilce": "ŞENPAZAR"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37019",
+    "Ilce": "TAŞKÖPRÜ"
+  },
+  {
+    "IlKod": "37",
+    "Il": "KASTAMONU",
+    "IlceKod": "37020",
+    "Ilce": "TOSYA"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38001",
+    "Ilce": "AKKIŞLA"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38002",
+    "Ilce": "BÜNYAN"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38003",
+    "Ilce": "DEVELİ"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38004",
+    "Ilce": "FELAHİYE"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38005",
+    "Ilce": "HACILAR"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38006",
+    "Ilce": "İNCESU"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38007",
+    "Ilce": "KOCASİNAN"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38008",
+    "Ilce": "MELİKGAZİ"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38009",
+    "Ilce": "ÖZVATAN"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38010",
+    "Ilce": "PINARBAŞI"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38011",
+    "Ilce": "SARIOĞLAN"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38012",
+    "Ilce": "SARIZ"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38013",
+    "Ilce": "TALAS"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38014",
+    "Ilce": "TOMARZA"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38015",
+    "Ilce": "YAHYALI"
+  },
+  {
+    "IlKod": "38",
+    "Il": "KAYSERİ",
+    "IlceKod": "38016",
+    "Ilce": "YEŞİLHİSAR"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39001",
+    "Ilce": "BABAESKİ"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39002",
+    "Ilce": "DEMİRKÖY"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39003",
+    "Ilce": "KOFÇAZ"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39004",
+    "Ilce": "LÜLEBURGAZ"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39006",
+    "Ilce": "PEHLİVANKÖY"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39007",
+    "Ilce": "PINARHİSAR"
+  },
+  {
+    "IlKod": "39",
+    "Il": "KIRKLARELİ",
+    "IlceKod": "39008",
+    "Ilce": "VİZE"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40001",
+    "Ilce": "AKÇAKENT"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40002",
+    "Ilce": "AKPINAR"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40003",
+    "Ilce": "BOZTEPE"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40004",
+    "Ilce": "ÇİÇEKDAĞI"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40005",
+    "Ilce": "KAMAN"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40006",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "40",
+    "Il": "KIRŞEHİR",
+    "IlceKod": "40007",
+    "Ilce": "MUCUR"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41001",
+    "Ilce": "BAŞİSKELE"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41002",
+    "Ilce": "ÇAYIROVA"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41003",
+    "Ilce": "DARICA"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41004",
+    "Ilce": "DERİNCE"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41005",
+    "Ilce": "DİLOVASI"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41006",
+    "Ilce": "GEBZE"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41007",
+    "Ilce": "GÖLCÜK"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41008",
+    "Ilce": "İZMİT"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41009",
+    "Ilce": "KANDIRA"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41010",
+    "Ilce": "KARAMÜRSEL"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41011",
+    "Ilce": "KARTEPE"
+  },
+  {
+    "IlKod": "41",
+    "Il": "KOCAELİ",
+    "IlceKod": "41012",
+    "Ilce": "KÖRFEZ"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42001",
+    "Ilce": "AHIRLI"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42002",
+    "Ilce": "AKÖREN"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42003",
+    "Ilce": "AKŞEHİR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42004",
+    "Ilce": "ALTINEKİN"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42005",
+    "Ilce": "BEYŞEHİR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42006",
+    "Ilce": "BOZKIR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42007",
+    "Ilce": "CİHANBEYLİ"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42008",
+    "Ilce": "ÇELTİK"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42009",
+    "Ilce": "ÇUMRA"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42010",
+    "Ilce": "DERBENT"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42011",
+    "Ilce": "DEREBUCAK"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42012",
+    "Ilce": "DOĞANHİSAR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42013",
+    "Ilce": "EMİRGAZİ"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42014",
+    "Ilce": "EREĞLİ"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42015",
+    "Ilce": "GÜNEYSINIR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42016",
+    "Ilce": "HADİM"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42017",
+    "Ilce": "HALKAPINAR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42018",
+    "Ilce": "HÜYÜK"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42019",
+    "Ilce": "ILGIN"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42020",
+    "Ilce": "KADINHANI"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42021",
+    "Ilce": "KARAPINAR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42022",
+    "Ilce": "KARATAY"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42023",
+    "Ilce": "KULU"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42024",
+    "Ilce": "MERAM"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42025",
+    "Ilce": "SARAYÖNÜ"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42026",
+    "Ilce": "SELÇUKLU"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42027",
+    "Ilce": "SEYDİŞEHİR"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42028",
+    "Ilce": "TAŞKENT"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42029",
+    "Ilce": "TUZLUKÇU"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42030",
+    "Ilce": "YALIHÜYÜK"
+  },
+  {
+    "IlKod": "42",
+    "Il": "KONYA",
+    "IlceKod": "42031",
+    "Ilce": "YUNAK"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43001",
+    "Ilce": "ALTINTAŞ"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43002",
+    "Ilce": "ASLANAPA"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43003",
+    "Ilce": "ÇAVDARHİSAR"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43004",
+    "Ilce": "DOMANİÇ"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43005",
+    "Ilce": "DUMLUPINAR"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43006",
+    "Ilce": "EMET"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43007",
+    "Ilce": "GEDİZ"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43008",
+    "Ilce": "HİSARCIK"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43009",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43010",
+    "Ilce": "PAZARLAR"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43011",
+    "Ilce": "SİMAV"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43012",
+    "Ilce": "ŞAPHANE"
+  },
+  {
+    "IlKod": "43",
+    "Il": "KÜTAHYA",
+    "IlceKod": "43013",
+    "Ilce": "TAVŞANLI"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44001",
+    "Ilce": "AKÇADAĞ"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44002",
+    "Ilce": "ARAPGİR"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44003",
+    "Ilce": "ARGUVAN"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44004",
+    "Ilce": "BATTALGAZİ"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44005",
+    "Ilce": "DARENDE"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44006",
+    "Ilce": "DOĞANŞEHİR"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44007",
+    "Ilce": "DOĞANYOL"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44008",
+    "Ilce": "HEKİMHAN"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44009",
+    "Ilce": "KALE"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44010",
+    "Ilce": "KULUNCAK"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44011",
+    "Ilce": "PÜTÜRGE"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44012",
+    "Ilce": "YAZIHAN"
+  },
+  {
+    "IlKod": "44",
+    "Il": "MALATYA",
+    "IlceKod": "44013",
+    "Ilce": "YEŞİLYURT"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45001",
+    "Ilce": "AHMETLİ"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45002",
+    "Ilce": "AKHİSAR"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45003",
+    "Ilce": "ALAŞEHİR"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45004",
+    "Ilce": "DEMİRCİ"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45005",
+    "Ilce": "GÖLMARMARA"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45006",
+    "Ilce": "GÖRDES"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45007",
+    "Ilce": "KIRKAĞAÇ"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45008",
+    "Ilce": "KÖPRÜBAŞI"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45009",
+    "Ilce": "KULA"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45010",
+    "Ilce": "SALİHLİ"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45011",
+    "Ilce": "SARIGÖL"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45012",
+    "Ilce": "SARUHANLI"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45013",
+    "Ilce": "SELENDİ"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45014",
+    "Ilce": "SOMA"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45015",
+    "Ilce": "ŞEHZADELER"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45016",
+    "Ilce": "TURGUTLU"
+  },
+  {
+    "IlKod": "45",
+    "Il": "MANİSA",
+    "IlceKod": "45017",
+    "Ilce": "YUNUSEMRE"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46001",
+    "Ilce": "AFŞİN"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46002",
+    "Ilce": "ANDIRIN"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46003",
+    "Ilce": "ÇAĞLAYANCERİT"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46004",
+    "Ilce": "DULKADİROĞLU"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46005",
+    "Ilce": "EKİNÖZÜ"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46006",
+    "Ilce": "ELBİSTAN"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46007",
+    "Ilce": "GÖKSUN"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46008",
+    "Ilce": "NURHAK"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46009",
+    "Ilce": "ONİKİŞUBAT"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46010",
+    "Ilce": "PAZARCIK"
+  },
+  {
+    "IlKod": "46",
+    "Il": "KAHRAMANMARAŞ",
+    "IlceKod": "46011",
+    "Ilce": "TÜRKOĞLU"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47001",
+    "Ilce": "ARTUKLU"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47002",
+    "Ilce": "DARGEÇİT"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47003",
+    "Ilce": "DERİK"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47004",
+    "Ilce": "KIZILTEPE"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47005",
+    "Ilce": "MAZIDAĞI"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47006",
+    "Ilce": "MİDYAT"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47007",
+    "Ilce": "NUSAYBİN"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47008",
+    "Ilce": "ÖMERLİ"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47009",
+    "Ilce": "SAVUR"
+  },
+  {
+    "IlKod": "47",
+    "Il": "MARDİN",
+    "IlceKod": "47010",
+    "Ilce": "YEŞİLLİ"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48001",
+    "Ilce": "BODRUM"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48002",
+    "Ilce": "DALAMAN"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48003",
+    "Ilce": "DATÇA"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48004",
+    "Ilce": "FETHİYE"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48005",
+    "Ilce": "KAVAKLIDERE"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48006",
+    "Ilce": "KÖYCEĞİZ"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48007",
+    "Ilce": "MARMARİS"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48008",
+    "Ilce": "MENTEŞE"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48009",
+    "Ilce": "MİLAS"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48010",
+    "Ilce": "ORTACA"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48011",
+    "Ilce": "SEYDİKEMER"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48012",
+    "Ilce": "ULA"
+  },
+  {
+    "IlKod": "48",
+    "Il": "MUĞLA",
+    "IlceKod": "48013",
+    "Ilce": "YATAĞAN"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ",
+    "IlceKod": "49001",
+    "Ilce": "BULANIK"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ",
+    "IlceKod": "49002",
+    "Ilce": "HASKÖY"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ",
+    "IlceKod": "49003",
+    "Ilce": "KORKUT"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ",
+    "IlceKod": "49004",
+    "Ilce": "MALAZGİRT"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ",
+    "IlceKod": "49005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "49",
+    "Il": "MUŞ",
+    "IlceKod": "49006",
+    "Ilce": "VARTO"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50001",
+    "Ilce": "ACIGÖL"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50002",
+    "Ilce": "AVANOS"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50003",
+    "Ilce": "DERİNKUYU"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50004",
+    "Ilce": "GÜLŞEHİR"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50005",
+    "Ilce": "HACIBEKTAŞ"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50006",
+    "Ilce": "KOZAKLI"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50007",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "50",
+    "Il": "NEVŞEHİR",
+    "IlceKod": "50008",
+    "Ilce": "ÜRGÜP"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE",
+    "IlceKod": "51001",
+    "Ilce": "ALTUNHİSAR"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE",
+    "IlceKod": "51002",
+    "Ilce": "BOR"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE",
+    "IlceKod": "51003",
+    "Ilce": "ÇAMARDI"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE",
+    "IlceKod": "51004",
+    "Ilce": "ÇİFTLİK"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE",
+    "IlceKod": "51005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "51",
+    "Il": "NİĞDE",
+    "IlceKod": "51006",
+    "Ilce": "ULUKIŞLA"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52001",
+    "Ilce": "AKKUŞ"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52002",
+    "Ilce": "ALTINORDU"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52003",
+    "Ilce": "AYBASTI"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52004",
+    "Ilce": "ÇAMAŞ"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52005",
+    "Ilce": "ÇATALPINAR"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52006",
+    "Ilce": "ÇAYBAŞI"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52007",
+    "Ilce": "FATSA"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52008",
+    "Ilce": "GÖLKÖY"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52009",
+    "Ilce": "GÜLYALI"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52010",
+    "Ilce": "GÜRGENTEPE"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52011",
+    "Ilce": "İKİZCE"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52012",
+    "Ilce": "KABADÜZ"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52013",
+    "Ilce": "KABATAŞ"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52014",
+    "Ilce": "KORGAN"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52015",
+    "Ilce": "KUMRU"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52016",
+    "Ilce": "MESUDİYE"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52017",
+    "Ilce": "PERŞEMBE"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52018",
+    "Ilce": "ULUBEY"
+  },
+  {
+    "IlKod": "52",
+    "Il": "ORDU",
+    "IlceKod": "52019",
+    "Ilce": "ÜNYE"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53001",
+    "Ilce": "ARDEŞEN"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53002",
+    "Ilce": "ÇAMLIHEMŞİN"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53003",
+    "Ilce": "ÇAYELİ"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53004",
+    "Ilce": "DEREPAZARI"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53005",
+    "Ilce": "FINDIKLI"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53006",
+    "Ilce": "GÜNEYSU"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53007",
+    "Ilce": "HEMŞİN"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53008",
+    "Ilce": "İKİZDERE"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53009",
+    "Ilce": "İYİDERE"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53010",
+    "Ilce": "KALKANDERE"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53011",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "53",
+    "Il": "RİZE",
+    "IlceKod": "53012",
+    "Ilce": "PAZAR"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54001",
+    "Ilce": "ADAPAZARI"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54002",
+    "Ilce": "AKYAZI"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54003",
+    "Ilce": "ARİFİYE"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54004",
+    "Ilce": "ERENLER"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54005",
+    "Ilce": "FERİZLİ"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54006",
+    "Ilce": "GEYVE"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54007",
+    "Ilce": "HENDEK"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54008",
+    "Ilce": "KARAPÜRÇEK"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54009",
+    "Ilce": "KARASU"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54010",
+    "Ilce": "KAYNARCA"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54011",
+    "Ilce": "KOCAALİ"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54012",
+    "Ilce": "PAMUKOVA"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54013",
+    "Ilce": "SAPANCA"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54014",
+    "Ilce": "SERDİVAN"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54015",
+    "Ilce": "SÖĞÜTLÜ"
+  },
+  {
+    "IlKod": "54",
+    "Il": "SAKARYA",
+    "IlceKod": "54016",
+    "Ilce": "TARAKLI"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55001",
+    "Ilce": "19 MAYIS"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55002",
+    "Ilce": "ALAÇAM"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55003",
+    "Ilce": "ASARCIK"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55004",
+    "Ilce": "ATAKUM"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55005",
+    "Ilce": "AYVACIK"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55006",
+    "Ilce": "BAFRA"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55007",
+    "Ilce": "CANİK"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55008",
+    "Ilce": "ÇARŞAMBA"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55009",
+    "Ilce": "HAVZA"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55010",
+    "Ilce": "İLKADIM"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55011",
+    "Ilce": "KAVAK"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55012",
+    "Ilce": "LADİK"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55013",
+    "Ilce": "SALIPAZARI"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55014",
+    "Ilce": "TEKKEKÖY"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55015",
+    "Ilce": "TERME"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55016",
+    "Ilce": "VEZİRKÖPRÜ"
+  },
+  {
+    "IlKod": "55",
+    "Il": "SAMSUN",
+    "IlceKod": "55017",
+    "Ilce": "YAKAKENT"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56001",
+    "Ilce": "BAYKAN"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56002",
+    "Ilce": "ERUH"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56003",
+    "Ilce": "KURTALAN"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56004",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56005",
+    "Ilce": "PERVARİ"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56006",
+    "Ilce": "ŞİRVAN"
+  },
+  {
+    "IlKod": "56",
+    "Il": "SİİRT",
+    "IlceKod": "56007",
+    "Ilce": "TİLLO"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57001",
+    "Ilce": "AYANCIK"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57002",
+    "Ilce": "BOYABAT"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57003",
+    "Ilce": "DİKMEN"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57004",
+    "Ilce": "DURAĞAN"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57005",
+    "Ilce": "ERFELEK"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57006",
+    "Ilce": "GERZE"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57007",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57008",
+    "Ilce": "SARAYDÜZÜ"
+  },
+  {
+    "IlKod": "57",
+    "Il": "SİNOP",
+    "IlceKod": "57009",
+    "Ilce": "TÜRKELİ"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58001",
+    "Ilce": "AKINCILAR"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58002",
+    "Ilce": "ALTINYAYLA"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58003",
+    "Ilce": "DİVRİĞİ"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58004",
+    "Ilce": "DOĞANŞAR"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58005",
+    "Ilce": "GEMEREK"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58006",
+    "Ilce": "GÖLOVA"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58007",
+    "Ilce": "GÜRÜN"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58008",
+    "Ilce": "HAFİK"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58009",
+    "Ilce": "İMRANLI"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58010",
+    "Ilce": "KANGAL"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58011",
+    "Ilce": "KOYULHİSAR"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58012",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58013",
+    "Ilce": "SUŞEHRİ"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58014",
+    "Ilce": "ŞARKIŞLA"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58015",
+    "Ilce": "ULAŞ"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58016",
+    "Ilce": "YILDIZELİ"
+  },
+  {
+    "IlKod": "58",
+    "Il": "SİVAS",
+    "IlceKod": "58017",
+    "Ilce": "ZARA"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59001",
+    "Ilce": "ÇERKEZKÖY"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59002",
+    "Ilce": "ÇORLU"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59003",
+    "Ilce": "ERGENE"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59004",
+    "Ilce": "HAYRABOLU"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59005",
+    "Ilce": "KAPAKLI"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59006",
+    "Ilce": "MALKARA"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59007",
+    "Ilce": "MARMARAEREĞLİSİ"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59008",
+    "Ilce": "MURATLI"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59009",
+    "Ilce": "SARAY"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59010",
+    "Ilce": "SÜLEYMANPAŞA"
+  },
+  {
+    "IlKod": "59",
+    "Il": "TEKİRDAĞ",
+    "IlceKod": "59011",
+    "Ilce": "ŞARKÖY"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60001",
+    "Ilce": "ALMUS"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60002",
+    "Ilce": "ARTOVA"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60003",
+    "Ilce": "BAŞÇİFTLİK"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60004",
+    "Ilce": "ERBAA"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60006",
+    "Ilce": "NİKSAR"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60007",
+    "Ilce": "PAZAR"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60008",
+    "Ilce": "REŞADİYE"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60009",
+    "Ilce": "SULUSARAY"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60010",
+    "Ilce": "TURHAL"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60011",
+    "Ilce": "YEŞİLYURT"
+  },
+  {
+    "IlKod": "60",
+    "Il": "TOKAT",
+    "IlceKod": "60012",
+    "Ilce": "ZİLE"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61001",
+    "Ilce": "AKÇAABAT"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61002",
+    "Ilce": "ARAKLI"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61003",
+    "Ilce": "ARSİN"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61004",
+    "Ilce": "BEŞİKDÜZÜ"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61005",
+    "Ilce": "ÇARŞIBAŞI"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61006",
+    "Ilce": "ÇAYKARA"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61007",
+    "Ilce": "DERNEKPAZARI"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61008",
+    "Ilce": "DÜZKÖY"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61009",
+    "Ilce": "HAYRAT"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61010",
+    "Ilce": "KÖPRÜBAŞI"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61011",
+    "Ilce": "MAÇKA"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61012",
+    "Ilce": "OF"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61013",
+    "Ilce": "ORTAHİSAR"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61014",
+    "Ilce": "SÜRMENE"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61015",
+    "Ilce": "ŞALPAZARI"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61016",
+    "Ilce": "TONYA"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61017",
+    "Ilce": "VAKFIKEBİR"
+  },
+  {
+    "IlKod": "61",
+    "Il": "TRABZON",
+    "IlceKod": "61018",
+    "Ilce": "YOMRA"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62001",
+    "Ilce": "ÇEMİŞGEZEK"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62002",
+    "Ilce": "HOZAT"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62003",
+    "Ilce": "MAZGİRT"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62004",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62005",
+    "Ilce": "NAZIMİYE"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62006",
+    "Ilce": "OVACIK"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62007",
+    "Ilce": "PERTEK"
+  },
+  {
+    "IlKod": "62",
+    "Il": "TUNCELİ",
+    "IlceKod": "62008",
+    "Ilce": "PÜLÜMÜR"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63001",
+    "Ilce": "AKÇAKALE"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63002",
+    "Ilce": "BİRECİK"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63003",
+    "Ilce": "BOZOVA"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63004",
+    "Ilce": "CEYLANPINAR"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63005",
+    "Ilce": "EYYÜBİYE"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63006",
+    "Ilce": "HALFETİ"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63007",
+    "Ilce": "HALİLİYE"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63008",
+    "Ilce": "HARRAN"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63009",
+    "Ilce": "HİLVAN"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63010",
+    "Ilce": "KARAKÖPRÜ"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63011",
+    "Ilce": "SİVEREK"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63012",
+    "Ilce": "SURUÇ"
+  },
+  {
+    "IlKod": "63",
+    "Il": "ŞANLIURFA",
+    "IlceKod": "63013",
+    "Ilce": "VİRANŞEHİR"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK",
+    "IlceKod": "64001",
+    "Ilce": "BANAZ"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK",
+    "IlceKod": "64002",
+    "Ilce": "EŞME"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK",
+    "IlceKod": "64003",
+    "Ilce": "KARAHALLI"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK",
+    "IlceKod": "64004",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK",
+    "IlceKod": "64005",
+    "Ilce": "SİVASLI"
+  },
+  {
+    "IlKod": "64",
+    "Il": "UŞAK",
+    "IlceKod": "64006",
+    "Ilce": "ULUBEY"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65001",
+    "Ilce": "BAHÇESARAY"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65002",
+    "Ilce": "BAŞKALE"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65003",
+    "Ilce": "ÇALDIRAN"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65004",
+    "Ilce": "ÇATAK"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65005",
+    "Ilce": "EDREMİT"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65006",
+    "Ilce": "ERCİŞ"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65007",
+    "Ilce": "GEVAŞ"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65008",
+    "Ilce": "GÜRPINAR"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65009",
+    "Ilce": "İPEKYOLU"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65010",
+    "Ilce": "MURADİYE"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65011",
+    "Ilce": "ÖZALP"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65012",
+    "Ilce": "SARAY"
+  },
+  {
+    "IlKod": "65",
+    "Il": "VAN",
+    "IlceKod": "65013",
+    "Ilce": "TUŞBA"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66001",
+    "Ilce": "AKDAĞMADENİ"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66002",
+    "Ilce": "AYDINCIK"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66003",
+    "Ilce": "BOĞAZLIYAN"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66004",
+    "Ilce": "ÇANDIR"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66005",
+    "Ilce": "ÇAYIRALAN"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66006",
+    "Ilce": "ÇEKEREK"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66007",
+    "Ilce": "KADIŞEHRİ"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66008",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66009",
+    "Ilce": "SARAYKENT"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66010",
+    "Ilce": "SARIKAYA"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66011",
+    "Ilce": "SORGUN"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66012",
+    "Ilce": "ŞEFAATLİ"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66013",
+    "Ilce": "YENİFAKILI"
+  },
+  {
+    "IlKod": "66",
+    "Il": "YOZGAT",
+    "IlceKod": "66014",
+    "Ilce": "YERKÖY"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67001",
+    "Ilce": "ALAPLI"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67002",
+    "Ilce": "ÇAYCUMA"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67003",
+    "Ilce": "DEVREK"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67004",
+    "Ilce": "EREĞLİ"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67005",
+    "Ilce": "GÖKÇEBEY"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67006",
+    "Ilce": "KİLİMLİ"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67007",
+    "Ilce": "KOZLU"
+  },
+  {
+    "IlKod": "67",
+    "Il": "ZONGULDAK",
+    "IlceKod": "67008",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68001",
+    "Ilce": "AĞAÇÖREN"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68002",
+    "Ilce": "ESKİL"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68003",
+    "Ilce": "GÜLAĞAÇ"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68004",
+    "Ilce": "GÜZELYURT"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68006",
+    "Ilce": "ORTAKÖY"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68007",
+    "Ilce": "SARIYAHŞİ"
+  },
+  {
+    "IlKod": "68",
+    "Il": "AKSARAY",
+    "IlceKod": "68008",
+    "Ilce": "SULTANHANI"
+  },
+  {
+    "IlKod": "69",
+    "Il": "BAYBURT",
+    "IlceKod": "69001",
+    "Ilce": "AYDINTEPE"
+  },
+  {
+    "IlKod": "69",
+    "Il": "BAYBURT",
+    "IlceKod": "69002",
+    "Ilce": "DEMİRÖZÜ"
+  },
+  {
+    "IlKod": "69",
+    "Il": "BAYBURT",
+    "IlceKod": "69003",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN",
+    "IlceKod": "70001",
+    "Ilce": "AYRANCI"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN",
+    "IlceKod": "70002",
+    "Ilce": "BAŞYAYLA"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN",
+    "IlceKod": "70003",
+    "Ilce": "ERMENEK"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN",
+    "IlceKod": "70004",
+    "Ilce": "KAZIMKARABEKİR"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN",
+    "IlceKod": "70005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "70",
+    "Il": "KARAMAN",
+    "IlceKod": "70006",
+    "Ilce": "SARIVELİLER"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71001",
+    "Ilce": "BAHŞILI"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71002",
+    "Ilce": "BALIŞEYH"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71003",
+    "Ilce": "ÇELEBİ"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71004",
+    "Ilce": "DELİCE"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71005",
+    "Ilce": "KARAKEÇİLİ"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71006",
+    "Ilce": "KESKİN"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71007",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71008",
+    "Ilce": "SULAKYURT"
+  },
+  {
+    "IlKod": "71",
+    "Il": "KIRIKKALE",
+    "IlceKod": "71009",
+    "Ilce": "YAHŞİHAN"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN",
+    "IlceKod": "72001",
+    "Ilce": "BEŞİRİ"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN",
+    "IlceKod": "72002",
+    "Ilce": "GERCÜŞ"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN",
+    "IlceKod": "72003",
+    "Ilce": "HASANKEYF"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN",
+    "IlceKod": "72004",
+    "Ilce": "KOZLUK"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN",
+    "IlceKod": "72005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "72",
+    "Il": "BATMAN",
+    "IlceKod": "72006",
+    "Ilce": "SASON"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73001",
+    "Ilce": "BEYTÜŞŞEBAP"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73002",
+    "Ilce": "CİZRE"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73003",
+    "Ilce": "GÜÇLÜKONAK"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73004",
+    "Ilce": "İDİL"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73006",
+    "Ilce": "SİLOPİ"
+  },
+  {
+    "IlKod": "73",
+    "Il": "ŞIRNAK",
+    "IlceKod": "73007",
+    "Ilce": "ULUDERE"
+  },
+  {
+    "IlKod": "74",
+    "Il": "BARTIN",
+    "IlceKod": "74001",
+    "Ilce": "AMASRA"
+  },
+  {
+    "IlKod": "74",
+    "Il": "BARTIN",
+    "IlceKod": "74002",
+    "Ilce": "KURUCAŞİLE"
+  },
+  {
+    "IlKod": "74",
+    "Il": "BARTIN",
+    "IlceKod": "74003",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "74",
+    "Il": "BARTIN",
+    "IlceKod": "74004",
+    "Ilce": "ULUS"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN",
+    "IlceKod": "75001",
+    "Ilce": "ÇILDIR"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN",
+    "IlceKod": "75002",
+    "Ilce": "DAMAL"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN",
+    "IlceKod": "75003",
+    "Ilce": "GÖLE"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN",
+    "IlceKod": "75004",
+    "Ilce": "HANAK"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN",
+    "IlceKod": "75005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "75",
+    "Il": "ARDAHAN",
+    "IlceKod": "75006",
+    "Ilce": "POSOF"
+  },
+  {
+    "IlKod": "76",
+    "Il": "IĞDIR",
+    "IlceKod": "76001",
+    "Ilce": "ARALIK"
+  },
+  {
+    "IlKod": "76",
+    "Il": "IĞDIR",
+    "IlceKod": "76002",
+    "Ilce": "KARAKOYUNLU"
+  },
+  {
+    "IlKod": "76",
+    "Il": "IĞDIR",
+    "IlceKod": "76003",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "76",
+    "Il": "IĞDIR",
+    "IlceKod": "76004",
+    "Ilce": "TUZLUCA"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA",
+    "IlceKod": "77001",
+    "Ilce": "ALTINOVA"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA",
+    "IlceKod": "77002",
+    "Ilce": "ARMUTLU"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA",
+    "IlceKod": "77003",
+    "Ilce": "ÇINARCIK"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA",
+    "IlceKod": "77004",
+    "Ilce": "ÇİFTLİKKÖY"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA",
+    "IlceKod": "77005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "77",
+    "Il": "YALOVA",
+    "IlceKod": "77006",
+    "Ilce": "TERMAL"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK",
+    "IlceKod": "78001",
+    "Ilce": "EFLANİ"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK",
+    "IlceKod": "78002",
+    "Ilce": "ESKİPAZAR"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK",
+    "IlceKod": "78003",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK",
+    "IlceKod": "78004",
+    "Ilce": "OVACIK"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK",
+    "IlceKod": "78005",
+    "Ilce": "SAFRANBOLU"
+  },
+  {
+    "IlKod": "78",
+    "Il": "KARABÜK",
+    "IlceKod": "78006",
+    "Ilce": "YENİCE"
+  },
+  {
+    "IlKod": "79",
+    "Il": "KİLİS",
+    "IlceKod": "79001",
+    "Ilce": "ELBEYLİ"
+  },
+  {
+    "IlKod": "79",
+    "Il": "KİLİS",
+    "IlceKod": "79002",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "79",
+    "Il": "KİLİS",
+    "IlceKod": "79003",
+    "Ilce": "MUSABEYLİ"
+  },
+  {
+    "IlKod": "79",
+    "Il": "KİLİS",
+    "IlceKod": "79004",
+    "Ilce": "POLATELİ"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80001",
+    "Ilce": "BAHÇE"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80002",
+    "Ilce": "DÜZİÇİ"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80003",
+    "Ilce": "HASANBEYLİ"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80004",
+    "Ilce": "KADİRLİ"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80005",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80006",
+    "Ilce": "SUMBAS"
+  },
+  {
+    "IlKod": "80",
+    "Il": "OSMANİYE",
+    "IlceKod": "80007",
+    "Ilce": "TOPRAKKALE"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81001",
+    "Ilce": "AKÇAKOCA"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81002",
+    "Ilce": "CUMAYERİ"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81003",
+    "Ilce": "ÇİLİMLİ"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81004",
+    "Ilce": "GÖLYAKA"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81005",
+    "Ilce": "GÜMÜŞOVA"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81006",
+    "Ilce": "KAYNAŞLI"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81007",
+    "Ilce": "MERKEZ"
+  },
+  {
+    "IlKod": "81",
+    "Il": "DÜZCE",
+    "IlceKod": "81008",
+    "Ilce": "YIĞILCA"
+  }
+]

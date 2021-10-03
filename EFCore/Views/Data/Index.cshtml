@@ -1,0 +1,91 @@
+﻿@using EFCore.AppLib.CodeFirst.Entities
+
+@model Object
+
+@section headSection {
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+}
+
+<div class="container my-5">
+    <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            Listele
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item" href="@Url.Content("~/Data/Iller")">İl Listesi</a></li>
+            <li><a class="dropdown-item" href="@Url.Content("~/Data/Ilceler")">İlçe Listesi</a></li>
+            <li><a class="dropdown-item" href="#">Semt-Bucak-Belde Listesi</a></li>
+            <li><a class="dropdown-item" href="#">Mahalle Listesi</a></li>
+        </ul>
+    </div>
+</div>
+
+@{
+    if (Model != null)
+    {
+        if (Model is List<IL>)
+        {
+            <div class="container">
+
+                <table id="dts" class="display">
+                    <thead>
+                        <tr>
+                            <th>İl Kodu</th>
+                            <th>İl Adı</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (IL i in Model as List<IL>)
+                        {
+                            <tr>
+                                <td>@i.IlKod</td>
+                                <td>@i.Il</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        }
+        if (Model is List<ILCE>)
+        {
+            <div class="container">
+
+                <table id="dts" class="display">
+                    <thead>
+                        <tr>
+                            <th>İl Kodu</th>
+                            <th>İl Adı</th>
+                            <th>İlçe Kodu</th>
+                            <th>İlçe Adı</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (ILCE i in Model as List<ILCE>)
+                        {
+                            <tr>
+                                <td>@i.Il.IlKod</td>
+                                <td>@i.Il.Il</td>
+                                <td>@i.IlceKod</td>
+                                <td>@i.Ilce</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        }
+    }
+}
+
+@section scriptSection {
+
+    <script>
+        $(document).ready(function () {
+            $('#dts').DataTable();
+        });
+    </script>
+
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+
+}
