@@ -12,9 +12,11 @@
     {
         if ((Model as AdresViewModel).Iller != null)
         {
-            <div class="container">
+            <div class="container bg-light p-5 m-5">
 
-                <table id="dts" class="display">
+                <h2>İller</h2><hr />
+
+                <table id="dts1" class="display">
                     <thead>
                         <tr>
                             <th>İl Kodu</th>
@@ -37,9 +39,11 @@
 
         if ((Model as AdresViewModel).Ilceler != null)
         {
-            <div class="container">
+            <div class="container bg-light p-5 m-5">
 
-                <table id="dts" class="display">
+                <h2>İlçeler</h2><hr />
+
+                <table id="dts2" class="display">
                     <thead>
                         <tr>
                             <th>İl Kodu</th>
@@ -63,6 +67,41 @@
 
             </div>
         }
+
+        if ((Model as AdresViewModel).Sbbler != null)
+        {
+            <div class="container bg-light p-5 m-5">
+
+                <h2>Semt - Bucak - Belde</h2><hr />
+
+                <table id="dts3" class="display">
+                    <thead>
+                        <tr>
+                            <th>İl Kodu</th>
+                            <th>İl Adı</th>
+                            <th>İlçe Kodu</th>
+                            <th>İlçe Adı</th>
+                            <th>SBB Kodu</th>
+                            <th>SBB Adı</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (SBB i in (Model as AdresViewModel).Sbbler)
+                        {
+                            <tr>
+                                <td>@i.Ilce.IlKod</td>
+                                <td>@i.Ilce.Il</td>
+                                <td>@i.IlceKod</td>
+                                <td>@i.Ilce</td>
+                                <td>@i.SbbKod</td>
+                                <td>@i.SemtBucakBelde</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        }
     }
 }
 
@@ -70,7 +109,9 @@
 
     <script>
         $(document).ready(function () {
-            $('#dts').DataTable();
+            $('#dts1').DataTable();
+            $('#dts2').DataTable();
+            $('#dts3').DataTable();
         });
     </script>
 

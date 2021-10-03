@@ -22,6 +22,8 @@ namespace EFCore.Controllers
             AdresViewModel model = new AdresViewModel();
 
             model.Iller = _context.Iller.ToList();
+            model.Ilceler = _context.Ilceler.ToList();
+            model.Sbbler = _context.SemtBucakBeldeler.ToList();
 
             return View(model);
         }
