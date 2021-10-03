@@ -1,29 +1,16 @@
 ﻿@using EFCore.AppLib.CodeFirst.Entities
+@using EFCore.ViewModels
 
-@model Object
+@model AdresViewModel
 
 @section headSection {
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
 }
 
-<div class="container my-5">
-    <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-            Listele
-        </button>
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-            <li><a class="dropdown-item" href="@Url.Content("~/Data/Iller")">İl Listesi</a></li>
-            <li><a class="dropdown-item" href="@Url.Content("~/Data/Ilceler")">İlçe Listesi</a></li>
-            <li><a class="dropdown-item" href="#">Semt-Bucak-Belde Listesi</a></li>
-            <li><a class="dropdown-item" href="#">Mahalle Listesi</a></li>
-        </ul>
-    </div>
-</div>
-
 @{
     if (Model != null)
     {
-        if (Model is List<IL>)
+        if ((Model as AdresViewModel).Iller != null)
         {
             <div class="container">
 
@@ -35,7 +22,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (IL i in Model as List<IL>)
+                        @foreach (IL i in (Model as AdresViewModel).Iller)
                         {
                             <tr>
                                 <td>@i.IlKod</td>
@@ -47,7 +34,8 @@
 
             </div>
         }
-        if (Model is List<ILCE>)
+
+        if ((Model as AdresViewModel).Ilceler != null)
         {
             <div class="container">
 
@@ -61,7 +49,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (ILCE i in Model as List<ILCE>)
+                        @foreach (ILCE i in (Model as AdresViewModel).Ilceler)
                         {
                             <tr>
                                 <td>@i.Il.IlKod</td>
