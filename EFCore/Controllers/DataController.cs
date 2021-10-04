@@ -64,7 +64,7 @@ namespace EFCore.Controllers
                 .OrderBy(i => i.IlceAdi, StringComparer.CurrentCulture)
                 .ToList();
 
-            model.Iller = _context.Iller.Where(i => i.IlKodu == model.Ilceler.FirstOrDefault().Il.IlKodu).ToList();
+            model.Iller = _context.Iller.Where(i => i.IlKodu == model.Ilceler.FirstOrDefault().IlceKodu).ToList();
 
             return View(viewName: "Index", model: model);
         }
@@ -72,15 +72,7 @@ namespace EFCore.Controllers
         public IActionResult Mahalleler()
         {
             AdresViewModel model = new AdresViewModel();
-
-            model.Iller = _context.Iller.ToList();
-            model.Ilceler = _context.Ilceler.ToList();
-            model.Sbbler = _context.SemtBucakBeldeler.ToList();
-            model.Mahalleler = _context.Mahalleler.ToList();
-
             return View(viewName: "Index", model: model);
         }
-
-
     }
 }
