@@ -90,9 +90,9 @@
                         {
                             <tr>
                                 <td>@i.Ilce.IlKod</td>
-                                <td>@i.Ilce.Il</td>
+                                <td>@i.Ilce.Il.Il</td>
                                 <td>@i.IlceKod</td>
-                                <td>@i.Ilce</td>
+                                <td>@i.Ilce.Ilce</td>
                                 <td>@i.SbbKod</td>
                                 <td>@i.SemtBucakBelde</td>
                             </tr>
@@ -102,6 +102,45 @@
 
             </div>
         }
+
+        if ((Model as AdresViewModel).Mahalleler != null)
+        {
+            <div class="container bg-light p-5 m-5">
+
+                <h2>Mahalleler</h2><hr />
+
+                <table id="dts4" class="display">
+                    <thead>
+                        <tr>
+                            <th>İl Kodu</th>
+                            <th>İl Adı</th>
+                            <th>İlçe Kodu</th>
+                            <th>İlçe Adı</th>
+                            <th>SBB Kodu</th>
+                            <th>SBB Adı</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (MAHALLE i in (Model as AdresViewModel).Mahalleler)
+                        {
+                            <tr>
+                                <td>@i.SemtBucakBelde.Ilce.IlKod</td>
+                                <td>@i.SemtBucakBelde.Ilce.Il.IlKod</td>
+                                <td>@i.SemtBucakBelde.IlceKod</td>
+                                <td>@i.SemtBucakBelde.Ilce</td>
+                                <td>@i.SbbKod</td>
+                                <td>@i.SemtBucakBelde</td>
+                                <td>@i.MahalleKod</td>
+                                <td>@i.Mahalle</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        }
+
+
     }
 }
 
@@ -112,6 +151,7 @@
             $('#dts1').DataTable();
             $('#dts2').DataTable();
             $('#dts3').DataTable();
+            $('#dts4').DataTable();
         });
     </script>
 

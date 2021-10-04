@@ -24,6 +24,7 @@ namespace EFCore.Controllers
             model.Iller = _context.Iller.ToList();
             model.Ilceler = _context.Ilceler.ToList();
             model.Sbbler = _context.SemtBucakBeldeler.ToList();
+            model.Mahalleler = _context.Mahalleler.ToList();
 
             return View(model);
         }
