@@ -27,8 +27,8 @@
                         @foreach (IL i in (Model as AdresViewModel).Iller)
                         {
                             <tr>
-                                <td>@i.IlKod</td>
-                                <td>@i.Il</td>
+                                <td>@i.IlKodu</td>
+                                <td>@i.IlAdi</td>
                             </tr>
                         }
                     </tbody>
@@ -56,10 +56,10 @@
                         @foreach (ILCE i in (Model as AdresViewModel).Ilceler)
                         {
                             <tr>
-                                <td>@i.Il.IlKod</td>
-                                <td>@i.Il.Il</td>
-                                <td>@i.IlceKod</td>
-                                <td>@i.Ilce</td>
+                                <td>@i.Il.IlKodu</td>
+                                <td>@i.Il.IlAdi</td>
+                                <td>@i.IlceKodu</td>
+                                <td>@i.IlceAdi</td>
                             </tr>
                         }
                     </tbody>
@@ -89,11 +89,11 @@
                         @foreach (SBB i in (Model as AdresViewModel).Sbbler)
                         {
                             <tr>
-                                <td>@i.Ilce.IlKod</td>
-                                <td>@i.Ilce.Il.Il</td>
-                                <td>@i.IlceKod</td>
-                                <td>@i.Ilce.Ilce</td>
-                                <td>@i.SbbKod</td>
+                                <td>@i.Ilce.IlKodu</td>
+                                <td>@i.Ilce.Il.IlAdi</td>
+                                <td>@i.IlceKodu</td>
+                                <td>@i.Ilce.IlceAdi</td>
+                                <td>@i.SbbKodu</td>
                                 <td>@i.SemtBucakBelde</td>
                             </tr>
                         }
@@ -124,14 +124,14 @@
                         @foreach (MAHALLE i in (Model as AdresViewModel).Mahalleler)
                         {
                             <tr>
-                                <td>@i.SemtBucakBelde.Ilce.IlKod</td>
-                                <td>@i.SemtBucakBelde.Ilce.Il.IlKod</td>
-                                <td>@i.SemtBucakBelde.IlceKod</td>
+                                <td>@i.SemtBucakBelde.Ilce.IlKodu</td>
+                                <td>@i.SemtBucakBelde.Ilce.Il.IlKodu</td>
+                                <td>@i.SemtBucakBelde.IlceKodu</td>
                                 <td>@i.SemtBucakBelde.Ilce</td>
-                                <td>@i.SbbKod</td>
+                                <td>@i.SbbKodu</td>
                                 <td>@i.SemtBucakBelde</td>
-                                <td>@i.MahalleKod</td>
-                                <td>@i.Mahalle</td>
+                                <td>@i.MahalleKodu</td>
+                                <td>@i.MahalleAdi</td>
                             </tr>
                         }
                     </tbody>

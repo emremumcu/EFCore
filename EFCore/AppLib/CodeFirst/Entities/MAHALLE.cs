@@ -12,15 +12,15 @@ namespace EFCore.AppLib.CodeFirst.Entities
         /// [Key] attribute is required since the key property name does not end with ...Id or ...ID
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public string MahalleKod { get; set; }
+        public string MahalleKodu { get; set; }
 
-        public string Mahalle { get; set; }
+        public string MahalleAdi { get; set; }
 
         /// This attribute refers to the following property and tells the EF-Core that  it is a Foreign Key
         /// This prevents duplicate creation of the columns
-        [ForeignKey("SbbKod")]
+        [ForeignKey("SbbKodu")]
         public SBB SemtBucakBelde { get; set; } /// reference navigation property
 
-        public string SbbKod { get; set; }
+        public string SbbKodu { get; set; }
     }
 }

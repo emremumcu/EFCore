@@ -12,8 +12,8 @@ namespace EFCore.AppLib.CodeFirst.Entities
         /// [Key] attribute is required since the key property name does not end with ...Id or ...ID
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public string IlKod { get; set; }
+        public string IlKodu { get; set; }
 
-        public string Il { get; set; }
+        public string IlAdi { get; set; }
     }
 }

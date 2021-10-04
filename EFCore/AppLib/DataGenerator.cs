@@ -56,19 +56,19 @@
 
             /// Step4: Transfer data to database
             foreach (var i in illerFromJson)
-                context.Iller.Add(new IL() { IlKod = i.IlKod, Il = i.Il });
+                context.Iller.Add(new IL() { IlKodu = i.IlKod, IlAdi = i.Il });
             context.SaveChanges();
 
             foreach (var i in ilcelerFromJson)
-                context.Ilceler.Add(new ILCE() { IlceKod = i.IlceKod, Ilce = i.Ilce, IlKod = i.IlKod });
+                context.Ilceler.Add(new ILCE() { IlceKodu = i.IlceKod, IlceAdi = i.Ilce, IlKodu = i.IlKod });
             context.SaveChanges();
 
             foreach (var i in sbbFromJson)
-                context.SemtBucakBeldeler.Add(new SBB() { SbbKod=i.SbbKod, SemtBucakBelde = i.SemtBucakBelde, IlceKod = i.IlceKod  });
+                context.SemtBucakBeldeler.Add(new SBB() { SbbKodu=i.SbbKod, SemtBucakBelde = i.SemtBucakBelde, IlceKodu = i.IlceKod  });
             context.SaveChanges();
 
             foreach (var i in mahalleFromJson)
-                context.Mahalleler.Add(new MAHALLE() { MahalleKod = i.MahalleKod, Mahalle = i.Mahalle, SbbKod = i.SbbKod });
+                context.Mahalleler.Add(new MAHALLE() { MahalleKodu = i.MahalleKod, MahalleAdi = i.Mahalle, SbbKodu = i.SbbKod });
             context.SaveChanges();
         }
     }
