@@ -64,7 +64,7 @@
             context.SaveChanges();
 
             foreach (var i in sbbFromJson)
-                context.SemtBucakBeldeler.Add(new SBB() { SbbKodu=i.SbbKod, SemtBucakBelde = i.SemtBucakBelde, IlceKodu = i.IlceKod  });
+                context.SemtBucakBeldeler.Add(new SBB() { SbbKodu=i.SbbKod, SemtBucakBeldeAdi = i.SemtBucakBelde, IlceKodu = i.IlceKod  });
             context.SaveChanges();
 
             foreach (var i in mahalleFromJson)

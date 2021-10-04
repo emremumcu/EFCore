@@ -72,7 +72,7 @@ namespace EFCore.AppLib.Migrations
                     b.Property<string>("IlceKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("SemtBucakBelde")
+                    b.Property<string>("SemtBucakBeldeAdi")
                         .HasColumnType("TEXT");
 
                     b.HasKey("SbbKodu");

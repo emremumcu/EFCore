@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCore.AppLib.Migrations
 {
     [DbContext(typeof(CodeFirstDbContext))]
-    [Migration("20211004180016_Mig0")]
+    [Migration("20211004184241_Mig0")]
     partial class Mig0
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,7 +74,7 @@ namespace EFCore.AppLib.Migrations
                     b.Property<string>("IlceKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("SemtBucakBelde")
+                    b.Property<string>("SemtBucakBeldeAdi")
                         .HasColumnType("TEXT");
 
                     b.HasKey("SbbKodu");

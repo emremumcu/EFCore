@@ -19,3 +19,13 @@ DB First
 ``` batch
 > dotnet ef dbcontext scaffold "Server=.\SQLEXPRESS;Database=SchoolDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
 ```
+
+
+var result = fruits.OrderBy(f => f, StringComparer.CurrentCulture);
+// or
+CultureInfo culture = new CultureInfo("sv-SE");
+var result = fruits.OrderBy(f => f, StringComparer.Create(culture, false));
+
+Entity Framework Core evaluates a LINQ query on the server side as much as possible.
+Entity Framework Core blocks any client evaluation.
+.NET Core 3.1 and above doesn’t support client evaluation.

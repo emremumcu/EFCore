@@ -42,7 +42,7 @@ namespace EFCore.AppLib.Migrations
                 columns: table => new
                 {
                     SbbKodu = table.Column<string>(type: "TEXT", nullable: false),
-                    SemtBucakBelde = table.Column<string>(type: "TEXT", nullable: true),
+                    SemtBucakBeldeAdi = table.Column<string>(type: "TEXT", nullable: true),
                     IlceKodu = table.Column<string>(type: "TEXT", nullable: true)
                 },
                 constraints: table =>
