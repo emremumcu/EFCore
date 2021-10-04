@@ -17,67 +17,67 @@ namespace EFCore.AppLib.Migrations
 
             modelBuilder.Entity("EFCore.AppLib.CodeFirst.Entities.IL", b =>
                 {
-                    b.Property<string>("IlKod")
+                    b.Property<string>("IlKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Il")
+                    b.Property<string>("IlAdi")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("IlKod");
+                    b.HasKey("IlKodu");
 
                     b.ToTable("Iller");
                 });
 
             modelBuilder.Entity("EFCore.AppLib.CodeFirst.Entities.ILCE", b =>
                 {
-                    b.Property<string>("IlceKod")
+                    b.Property<string>("IlceKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("IlKod")
+                    b.Property<string>("IlKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Ilce")
+                    b.Property<string>("IlceAdi")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("IlceKod");
+                    b.HasKey("IlceKodu");
 
-                    b.HasIndex("IlKod");
+                    b.HasIndex("IlKodu");
 
                     b.ToTable("Ilceler");
                 });
 
             modelBuilder.Entity("EFCore.AppLib.CodeFirst.Entities.MAHALLE", b =>
                 {
-                    b.Property<string>("MahalleKod")
+                    b.Property<string>("MahalleKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Mahalle")
+                    b.Property<string>("MahalleAdi")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("SbbKod")
+                    b.Property<string>("SbbKodu")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("MahalleKod");
+                    b.HasKey("MahalleKodu");
 
-                    b.HasIndex("SbbKod");
+                    b.HasIndex("SbbKodu");
 
                     b.ToTable("Mahalleler");
                 });
 
             modelBuilder.Entity("EFCore.AppLib.CodeFirst.Entities.SBB", b =>
                 {
-                    b.Property<string>("SbbKod")
+                    b.Property<string>("SbbKodu")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("IlceKod")
+                    b.Property<string>("IlceKodu")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("SemtBucakBelde")
                         .HasColumnType("TEXT");
 
-                    b.HasKey("SbbKod");
+                    b.HasKey("SbbKodu");
 
-                    b.HasIndex("IlceKod");
+                    b.HasIndex("IlceKodu");
 
                     b.ToTable("SemtBucakBeldeler");
                 });
@@ -86,7 +86,7 @@ namespace EFCore.AppLib.Migrations
                 {
                     b.HasOne("EFCore.AppLib.CodeFirst.Entities.IL", "Il")
                         .WithMany()
-                        .HasForeignKey("IlKod");
+                        .HasForeignKey("IlKodu");
 
                     b.Navigation("Il");
                 });
@@ -95,7 +95,7 @@ namespace EFCore.AppLib.Migrations
                 {
                     b.HasOne("EFCore.AppLib.CodeFirst.Entities.SBB", "SemtBucakBelde")
                         .WithMany()
-                        .HasForeignKey("SbbKod");
+                        .HasForeignKey("SbbKodu");
 
                     b.Navigation("SemtBucakBelde");
                 });
@@ -104,7 +104,7 @@ namespace EFCore.AppLib.Migrations
                 {
                     b.HasOne("EFCore.AppLib.CodeFirst.Entities.ILCE", "Ilce")
                         .WithMany()
-                        .HasForeignKey("IlceKod");
+                        .HasForeignKey("IlceKodu");
 
                     b.Navigation("Ilce");
                 });
