@@ -9,10 +9,11 @@
     using Newtonsoft.Json;
     using System;
     using System.Linq;
+    using System.Threading.Tasks;
 
     public class DataGenerator
     {
-        public static void Generate(IHost host)
+        public static async Task Generate(IHost host)
         {
             IServiceScope scope = host.Services.CreateScope();
 
@@ -24,12 +25,9 @@
             {
                 CodeFirstDbContext context = services.GetRequiredService<CodeFirstDbContext>();            
 
-                if (context.Database.EnsureCreated()) 
-                    context.Database.Migrate();            
+                if (context.Database.EnsureCreated()) await context.Database.MigrateAsync();
             
-                if (context.Iller.Any()) 
-                    return;            
-                else 
+                if (!context.Iller.Any()) 
                     PopulateSampleData(environment, context);  
             }
         }

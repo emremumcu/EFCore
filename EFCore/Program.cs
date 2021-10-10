@@ -1,22 +1,18 @@
-using EFCore.AppLib;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-
 namespace EFCore
 {
-    /// <summary>
-    /// EFCore V1 (01/10/2021)
-    /// </summary>
+    using EFCore.AppLib;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.Hosting;
+    using System.Threading.Tasks;
+
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
-            // CreateHostBuilder(args).Build().Run();
-
             IHost host = CreateHostBuilder(args).Build();
 
-            DataGenerator.Generate(host);
+            await DataGenerator.Generate(host);
 
             /// IServiceScope scope = host.Services.CreateScope();
             /// IServiceProvider services = scope.ServiceProvider;

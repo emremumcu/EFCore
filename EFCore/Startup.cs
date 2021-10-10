@@ -1,18 +1,13 @@
-using EFCore.AppLib.CodeFirst;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using System;
-
 namespace EFCore
 {
-    /// <summary>
-    /// EFCore V1 (01/10/2021)
-    /// </summary>
+    using EFCore.AppLib.CodeFirst;
+    using Microsoft.AspNetCore.Builder;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.AspNetCore.Http;
+    using Microsoft.Extensions.DependencyInjection;
+    using Microsoft.Extensions.Hosting;
+    using System;
+
     public class Startup
     {
         /// <summary>

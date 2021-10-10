@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace EFCore.Controllers
 {
@@ -40,7 +41,9 @@ namespace EFCore.Controllers
 
             AdresViewModel model = new AdresViewModel();
             model.Iller = _context.Iller.Where(i=>i.IlKodu==ilkodu).ToList();
-            model.Ilceler = _context.Ilceler.Where(i=>i.IlKodu==ilkodu)
+            model.Ilceler = _context.Ilceler
+                .Include(i=>i.Il)                
+                .Where(i=>i.IlKodu==ilkodu)
                 .AsEnumerable() // Force the evaluation in the client side and to prevent exception: Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(). EFCore doesn’t understand the order by expression when it contains StringComparer.CurrentCulture (since current culture is client property NOT server property), and doesn’t translate it to the server. It throws this exception! 
                 .OrderBy(i=>i.IlceAdi, StringComparer.CurrentCulture).ToList();
             return View(viewName: "Index", model: model);
@@ -54,13 +57,14 @@ namespace EFCore.Controllers
 
             model.Sbbler = _context.SemtBucakBeldeler
                 .Where(s=>s.Ilce.IlceKodu==ilcekodu)
-                .AsEnumerable()
+                .AsEnumerable() // Force the evaluation in the client side and to prevent exception: Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(). EFCore doesn’t understand the order by expression when it contains StringComparer.CurrentCulture (since current culture is client property NOT server property), and doesn’t translate it to the server. It throws this exception! 
                 .OrderBy(s=>s.SemtBucakBeldeAdi, StringComparer.CurrentCulture)
                 .ToList();
 
             model.Ilceler = _context.Ilceler
                 .Where(i => i.IlceKodu==ilcekodu)
-                .AsEnumerable()
+                .Include(i => i.Il)
+                .AsEnumerable() // Force the evaluation in the client side and to prevent exception: Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(). EFCore doesn’t understand the order by expression when it contains StringComparer.CurrentCulture (since current culture is client property NOT server property), and doesn’t translate it to the server. It throws this exception! 
                 .OrderBy(i => i.IlceAdi, StringComparer.CurrentCulture)
                 .ToList();
 
@@ -69,9 +73,21 @@ namespace EFCore.Controllers
             return View(viewName: "Index", model: model);
         }
 
-        public IActionResult Mahalleler()
+        [HttpGet]
+        [Route("[controller]/[action]/{sbbkodu}")]
+        public IActionResult Mahalleler(string sbbkodu)
         {
             AdresViewModel model = new AdresViewModel();
+
+            model.Mahalleler = _context.Mahalleler
+                .Where(m => m.SbbKodu == sbbkodu)
+                .Include(m=>m.SemtBucakBelde)
+                .Include(m=>m.SemtBucakBelde.Ilce)
+                .Include(m => m.SemtBucakBelde.Ilce.Il)
+                .AsEnumerable() // Force the evaluation in the client side and to prevent exception: Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(). EFCore doesn’t understand the order by expression when it contains StringComparer.CurrentCulture (since current culture is client property NOT server property), and doesn’t translate it to the server. It throws this exception! 
+                .OrderBy(m=>m.MahalleAdi)
+                .ToList();
+
             return View(viewName: "Index", model: model);
         }
     }
