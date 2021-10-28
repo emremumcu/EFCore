@@ -29,3 +29,7 @@ var result = fruits.OrderBy(f => f, StringComparer.Create(culture, false));
 Entity Framework Core evaluates a LINQ query on the server side as much as possible.
 Entity Framework Core blocks any client evaluation.
 .NET Core 3.1 and above doesn’t support client evaluation.
+
+dotnet ef database drop -p ProjectHavingContext -s StartupProject
+dotnet ef migrations remove -p ProjectHavingContext -s StartupProject
+dotnet ef migrations add InitialCreate -p ProjectHavingContext -s StartupProject -o OutputModelFolder
