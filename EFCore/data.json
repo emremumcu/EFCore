@@ -1,0 +1,10 @@
+{
+  "ConnectionStrings": {
+    "AppConnectionString": "Server=.;Database=EFCore;Trusted_Connection=True;"
+  },
+  "DbLogging": {
+    "Options": {
+      "Level": "Warning"
+    }
+  }
+}

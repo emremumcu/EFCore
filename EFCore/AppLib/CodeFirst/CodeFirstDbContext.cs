@@ -1,10 +1,37 @@
-﻿namespace EFCore.AppLib.CodeFirst
+﻿/*     
+    PM> Install-Package Microsoft.EntityFrameworkCore.SqlServer
+    PM> Install-Package Microsoft.EntityFrameworkCore.Design -ProjectName <startupproject>
+    # Rebuild soluiton after Install-Package Microsoft.EntityFrameworkCore.Design
+    > dotnet tool install --global dotnet-ef
+    > dotnet tool update --global dotnet-ef
+    > dotnet ef migrations add InitialCreate -p <ProjectHavingDbContext> -s <StartupProject> -o EFCore/Migrations
+    > dotnet ef migrations add InitialCreate -o AppData/EFCore/Migrations
+    > dotnet ef database update -p SGKWeb.Lib -s SGKWeb.CMS.UI
+    > dotnet ef database drop -p SGKWeb.Lib -s SGKWeb.CMS.UI
+    > dotnet ef migrations remove -p SGKWeb.Lib -s SGKWeb.CMS.UI 
+
+    dotnet ef migrations remove
+    dotnet ef database drop
+
+ */
+
+// https://docs.microsoft.com/en-us/ef/core/modeling/relationships?tabs=fluent-api%2Cfluent-api-simple-key%2Csimple-key
+
+namespace EFCore.AppLib.CodeFirst
 {
     using EFCore.AppLib.CodeFirst.Entities;
     using Microsoft.EntityFrameworkCore;
+    using Microsoft.Extensions.Configuration;
+    using System;
+    using System.IO;
+    using System.Linq;
+    using System.Reflection;
 
     public class CodeFirstDbContext : DbContext
     {
+        // public AppDbContext(DbContextOptions contextOptions) : base(contextOptions) { }
+        // public AppDbContext(DbContextOptions<CMSDbContext> contextOptions) : base(contextOptions) { }
+
         /// <summary>
         /// This constructor is mandatory !!!
         /// A database provider can be configured by overriding the 'DbContext.OnConfiguring' method 
@@ -18,8 +45,34 @@
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {           
-            optionsBuilder.UseSqlite("Data Source=CodeFirstDB.sqlite;");
+        {
+            base.OnConfiguring(optionsBuilder);
+
+            if (!optionsBuilder.IsConfigured)
+            {
+                // string environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+                // IConfigurationBuilder builder = new ConfigurationBuilder();
+                // IConfigurationRoot configuration = new ConfigurationBuilder()
+                //    .SetBasePath(Directory.GetCurrentDirectory())
+                //    .AddJsonFile("data.json")
+                //    .Build();
+                // var connectionString = configuration.GetConnectionString("CMSConnectionString");
+
+                // optionsBuilder.UseSqlServer("Server=.;Database=DynamicCMS;Trusted_Connection=True;");
+
+                // string environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+                // IConfigurationBuilder builder = new ConfigurationBuilder();
+
+                IConfigurationRoot configuration = new ConfigurationBuilder()
+                    .SetBasePath(Directory.GetCurrentDirectory())
+                    .AddJsonFile("data.json")
+                    .Build();
+
+                // TODO @task Decoding of encrypted connection string
+                var connectionString = configuration.GetConnectionString("AppConnectionString");
+
+                optionsBuilder.UseSqlServer(connectionString);
+            }
 
             // For development only:
             optionsBuilder.EnableSensitiveDataLogging();
@@ -29,7 +82,24 @@
         {
             /// Maps entities to tables using specified names
             // modelBuilder.Entity<Il>().ToTable("Iller");
-            // modelBuilder.Entity<Ilce>().ToTable("Ilceler");            
+            // modelBuilder.Entity<Ilce>().ToTable("Ilceler");
+            // 
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+
+            if (Database.ProviderName == "Microsoft.EntityFrameworkCore.SqlServer")
+            {
+                foreach (var entityType in modelBuilder.Model.GetEntityTypes())
+                {
+                    var properties = entityType.ClrType.GetProperties().Where(p => p.Name == "RowTimeStamp" && p.PropertyType == typeof(DateTime));
+
+                    foreach (var property in properties)
+                    {
+                        modelBuilder.Entity(entityType.Name).Property(property.Name).HasDefaultValueSql("getdate()");
+                    }
+                }
+            }
         }
 
         /// Entities

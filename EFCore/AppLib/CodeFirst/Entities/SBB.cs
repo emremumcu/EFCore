@@ -7,11 +7,10 @@ using System.Threading.Tasks;
 
 namespace EFCore.AppLib.CodeFirst.Entities
 {
-    public class SBB
+    public class SBB: BaseEntity
     {
         /// [Key] attribute is required since the key property name does not end with ...Id or ...ID
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        [Key][DatabaseGenerated(DatabaseGeneratedOption.None)]
         public string SbbKodu { get; set; }
 
         public string SemtBucakBeldeAdi { get; set; }

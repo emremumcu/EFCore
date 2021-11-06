@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace EFCore.AppLib.Migrations
+namespace EFCore.AppLib.CodeFirst.Migrations
 {
-    public partial class Mig0 : Migration
+    public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -10,8 +11,9 @@ namespace EFCore.AppLib.Migrations
                 name: "Iller",
                 columns: table => new
                 {
-                    IlKodu = table.Column<string>(type: "TEXT", nullable: false),
-                    IlAdi = table.Column<string>(type: "TEXT", nullable: true)
+                    IlKodu = table.Column<string>(type: "char(2)", maxLength: 2, nullable: false),
+                    IlAdi = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    RowTimeStamp = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "getdate()")
                 },
                 constraints: table =>
                 {
@@ -19,12 +21,31 @@ namespace EFCore.AppLib.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "InternalLogs",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    LogLevel = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    EventId = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    State = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    ExceptionMessage = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    InnerExceptionMessage = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    RowTimeStamp = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "getdate()")
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_InternalLogs", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Ilceler",
                 columns: table => new
                 {
-                    IlceKodu = table.Column<string>(type: "TEXT", nullable: false),
-                    IlceAdi = table.Column<string>(type: "TEXT", nullable: true),
-                    IlKodu = table.Column<string>(type: "TEXT", nullable: true)
+                    IlceKodu = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    IlceAdi = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    IlKodu = table.Column<string>(type: "char(2)", nullable: true),
+                    RowTimeStamp = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "getdate()")
                 },
                 constraints: table =>
                 {
@@ -41,9 +62,10 @@ namespace EFCore.AppLib.Migrations
                 name: "SemtBucakBeldeler",
                 columns: table => new
                 {
-                    SbbKodu = table.Column<string>(type: "TEXT", nullable: false),
-                    SemtBucakBeldeAdi = table.Column<string>(type: "TEXT", nullable: true),
-                    IlceKodu = table.Column<string>(type: "TEXT", nullable: true)
+                    SbbKodu = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    SemtBucakBeldeAdi = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    IlceKodu = table.Column<string>(type: "nvarchar(450)", nullable: true),
+                    RowTimeStamp = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "getdate()")
                 },
                 constraints: table =>
                 {
@@ -60,9 +82,10 @@ namespace EFCore.AppLib.Migrations
                 name: "Mahalleler",
                 columns: table => new
                 {
-                    MahalleKodu = table.Column<string>(type: "TEXT", nullable: false),
-                    MahalleAdi = table.Column<string>(type: "TEXT", nullable: true),
-                    SbbKodu = table.Column<string>(type: "TEXT", nullable: true)
+                    MahalleKodu = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    MahalleAdi = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    SbbKodu = table.Column<string>(type: "nvarchar(450)", nullable: true),
+                    RowTimeStamp = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "getdate()")
                 },
                 constraints: table =>
                 {
@@ -93,6 +116,9 @@ namespace EFCore.AppLib.Migrations
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "InternalLogs");
+
             migrationBuilder.DropTable(
                 name: "Mahalleler");
 

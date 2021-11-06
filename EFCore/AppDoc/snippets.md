@@ -1,4 +1,17 @@
-﻿
+﻿    /*     
+        PM> Install-Package Microsoft.EntityFrameworkCore.SqlServer
+        PM> Install-Package Microsoft.EntityFrameworkCore.Design -ProjectName <startupproject>
+        # Rebuild soluiton after Install-Package Microsoft.EntityFrameworkCore.Design
+        > dotnet tool install --global dotnet-ef
+        > dotnet tool update --global dotnet-ef
+        > dotnet ef migrations add InitialCreate -p <ProjectHavingDbContext> -s <StartupProject> -o EFCore/Migrations
+        > dotnet ef migrations add InitialCreate -o AppData/EFCore/Migrations
+        > dotnet ef database update -p SGKWeb.Lib -s SGKWeb.CMS.UI
+        > dotnet ef database drop -p SGKWeb.Lib -s SGKWeb.CMS.UI
+        > dotnet ef migrations remove -p SGKWeb.Lib -s SGKWeb.CMS.UI     
+     */
+
+
 Providers and tools
 ``` batch
 PM> Install-Package Microsoft.EntityFrameworkCore.SQLite
