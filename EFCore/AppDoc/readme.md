@@ -1,5 +1,29 @@
 ﻿# EF Core Setup
 
+## Summary
+
+#### This package should be installed to the project containing the DbContext
+PM> Install-Package Microsoft.EntityFrameworkCore.SqlServer -ProjectName <contextproject>
+
+#### This package should be installed to the startup project
+PM> Install-Package Microsoft.EntityFrameworkCore.Design -ProjectName <startupproject>
+
+> Rebuild the project in Visual Studio after installing the Microsoft.EntityFrameworkCore.Design package in order to changes take effect.
+
+
+#### Install & update dotnet ef CLI tools
+> dotnet tool install --global dotnet-ef
+> dotnet tool update --global dotnet-ef
+
+#### Create DbContext and DbSet classes
+
+#### Create migrations and update database
+> dotnet ef migrations add InitialCreate -p <ProjectHavingDbContext> -s <StartupProject> -o EFCore/Migrations
+> dotnet ef migrations add InitialCreate -p SGKWeb.Lib -s SGKWeb.CMS.UI -o EFCore/Migrations
+> dotnet ef database update -p SGKWeb.Lib -s SGKWeb.CMS.UI
+> dotnet ef migrations remove -p SGKWeb.Lib -s SGKWeb.CMS.UI
+> dotnet ef database drop -p SGKWeb.Lib -s SGKWeb.CMS.UI
+
 ## 1. EF Core Database Provider
 
 Entity Framework Core uses a provider model to access many different databases. There are different EF Core DB providers available for the different databases. These providers are available as NuGet packages. First, we need to install the NuGet package for the provider of the database we want to access.
