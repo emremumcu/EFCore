@@ -26,3 +26,16 @@ PM> Install-Package Microsoft.EntityFrameworkCore.Design
 > dotnet ef database update
 
 ```
+
+``` csharp
+                // If only some columns are required from the entity:
+                ViewEntity? view = _context.DbViews
+                    .Where(e => e.Location == _location)
+                    .Select(i => new { i.LastModified, i.LastRequested });
+
+                // if you needed a strongly typed object returned in the query:
+                ViewEntity? view = _context.DbViews
+                    .Where(e => e.Location == _location)
+                    .Select(i => new ViewEntity() { LastModified = i.LastModified, LastRequested = i.LastRequested })
+                    .First();
+```
