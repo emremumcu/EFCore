@@ -6,6 +6,10 @@
 
     public class BaseEntity
     {
+        //[Key]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        //[Column(Order = 1)]
+
         // [Key][DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         // public int Id { get; set; }
         public DateTime RowTimeStamp { get; set; }
