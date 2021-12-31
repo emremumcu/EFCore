@@ -40,30 +40,33 @@ app.Run();
   
 // Extension:  
     
-public class Services
+namespace Vocabook.AppLib.Tools
 {
-    /// <summary>
-    /// Ex: AppDbContext context = Services.GetServiceInstance<AppDbContext>();
-    /// </summary>
-    public static T GetServiceInstance<T>() where T: class
+    public class Services
     {
-        IServiceCollection serviceCollection = new ServiceCollection();
-        serviceCollection.AddTransient<T>();
-        ServiceProvider provider = serviceCollection.BuildServiceProvider();
-        T service = provider.GetRequiredService<T>();
-        return service;
-    }
+        /// <summary>
+        /// Ex: AppDbContext context = Services.GetServiceInstance<AppDbContext>();
+        /// </summary>
+        public static T GetServiceInstance<T>() where T: class
+        {
+            IServiceCollection serviceCollection = new ServiceCollection();
+            serviceCollection.AddTransient<T>();
+            ServiceProvider provider = serviceCollection.BuildServiceProvider();
+            T service = provider.GetRequiredService<T>();
+            return service;
+        }
 
-    /// <summary>
-    /// Ex: string? name = Services.GetProviderNamespace<AppDbContext>();
-    /// </summary>
-    public static string? GetProviderNamespace<T>() where T : DbContext
-    {
-        IServiceCollection serviceCollection = new ServiceCollection();
-        serviceCollection.AddTransient<T>();
-        ServiceProvider provider = serviceCollection.BuildServiceProvider();
-        T context = provider.GetRequiredService<T>();
-        return context.Database.GetType().Namespace;            
+        /// <summary>
+        /// Ex: string? name = Services.GetProviderNamespace<AppDbContext>();
+        /// </summary>
+        public static string? GetDbProviderName<T>() where T : DbContext
+        {
+            IServiceCollection serviceCollection = new ServiceCollection();
+            serviceCollection.AddTransient<T>();
+            ServiceProvider provider = serviceCollection.BuildServiceProvider();
+            T context = provider.GetRequiredService<T>();
+            return context.Database.ProviderName;    
+        }
     }
 }
 
