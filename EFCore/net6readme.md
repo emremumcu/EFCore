@@ -40,22 +40,32 @@ app.Run();
   
 // Extension:  
     
-    public class Services
+public class Services
+{
+    /// <summary>
+    /// Ex: AppDbContext context = Services.GetServiceInstance<AppDbContext>();
+    /// </summary>
+    public static T GetServiceInstance<T>() where T: class
     {
-        /// <summary>
-        /// Ex: AppDbContext context = Services.GetServiceInstance<AppDbContext>();
-        /// </summary>
-        public static T GetServiceInstance<T>() where T: class
-        {
-            // IServiceCollection serviceCollection = new ServiceCollection().AddTransient<T>();
-
-            IServiceCollection serviceCollection = new ServiceCollection();
-            serviceCollection.AddTransient<T>();
-            ServiceProvider provider = serviceCollection.BuildServiceProvider();
-            T context = provider.GetRequiredService<T>();
-            return context;
-        }
+        IServiceCollection serviceCollection = new ServiceCollection();
+        serviceCollection.AddTransient<T>();
+        ServiceProvider provider = serviceCollection.BuildServiceProvider();
+        T service = provider.GetRequiredService<T>();
+        return service;
     }
+
+    /// <summary>
+    /// Ex: string? name = Services.GetProviderNamespace<AppDbContext>();
+    /// </summary>
+    public static string? GetProviderNamespace<T>() where T : DbContext
+    {
+        IServiceCollection serviceCollection = new ServiceCollection();
+        serviceCollection.AddTransient<T>();
+        ServiceProvider provider = serviceCollection.BuildServiceProvider();
+        T context = provider.GetRequiredService<T>();
+        return context.Database.GetType().Namespace;            
+    }
+}
 
 // IEntityTypeConfiguration
 
