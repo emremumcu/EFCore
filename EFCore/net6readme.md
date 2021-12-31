@@ -55,18 +55,6 @@ namespace Vocabook.AppLib.Tools
             T service = provider.GetRequiredService<T>();
             return service;
         }
-
-        /// <summary>
-        /// Ex: string? name = Services.GetProviderNamespace<AppDbContext>();
-        /// </summary>
-        public static string? GetDbProviderName<T>() where T : DbContext
-        {
-            IServiceCollection serviceCollection = new ServiceCollection();
-            serviceCollection.AddTransient<T>();
-            ServiceProvider provider = serviceCollection.BuildServiceProvider();
-            T context = provider.GetRequiredService<T>();
-            return context.Database.ProviderName;    
-        }
     }
 }
 
@@ -79,9 +67,6 @@ namespace Vocabook.AppData.Configuration
         public void Configure(EntityTypeBuilder<Word> builder)
         {
             AppDbContext context = Services.GetServiceInstance<AppDbContext>();
-            string? name = context.Database.GetType().Namespace;
-
-
 
             builder.ToTable(builder.Metadata.DisplayName());
             builder.HasKey(k => k.English);            
