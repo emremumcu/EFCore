@@ -1,6 +1,6 @@
 ﻿# Readme
 
-This is a starter template for ASP .Net Core MVC Applications. You can use this template as a boilerplate for your ASP .Net Core MVC Web applications.
+This is a starter template for ASP .Net Core MVC Applications. You can use this template as a boilerplate for your ASP .Net Core MVC Web applications...
 
 
 # Project Structure
